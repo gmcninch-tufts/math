@@ -5,8 +5,8 @@ git add .
 git commit -m "$msg"
 git push origin master
 
-echo "deploying prof-site"
-cd /home/george/Web-hakyll/prof-site/
-git add .
-git commit -m "$msg"
-git push origin master
+# echo "deploying prof-site"
+# cd /home/george/Web-hakyll/prof-site/
+# git add .
+# git commit -m "$msg"
+# git push origin master
