@@ -13,9 +13,11 @@
       <th> Title </th>
     </tr>
   </thead>
-  $for(posts)$
-  <tr>
-    <td> $date$ </td> <td> <a href="$url$">$title$</a> </td>
-  </tr>
-  $endfor$  
+  <tbody>
+    $for(posts)$
+    <tr>
+      <td> $date$ </td> <td> <a href="$url$">$title$</a> </td>
+    </tr>
+    $endfor$
+  </tbody>
 </table>
