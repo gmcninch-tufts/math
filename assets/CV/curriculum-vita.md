@@ -6,7 +6,7 @@ title: Curriculum Vita of George McNinch
 Personal Data
 =============
 
-+ **Web**: [http://gmcninch.math.tufts.edu](http://gmcninch.math.tufts.edu)
++ **Web**: [http://gmcninch-tufts.github.io/math](http://gmcninch-tufts.github.io/math)
 + **Email**: ``george.mcninch@tufts.edu``
 + **Address**
 
