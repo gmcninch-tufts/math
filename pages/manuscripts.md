@@ -10,10 +10,10 @@ title: Manuscripts
 #. [Levi factors of the special fiber of a parahoric group scheme and tame ramification](#levi-factors-of-the-special-fiber-of-a-parahoric-group-scheme-and-tame-ramification) (2014). Algebras and Representation Theory 17 (2014), no. 2, pp. 469--479.    
 #. [On the descent of Levi factors](#on-the-descent-of-levi-factors) (2013). Archiv der Mathematik 100 (2013), no. 1, pp. 7--24.    
 #. [Some good-filtration subgroups of simple algebraic groups](#some-good-filtration-subgroups-of-simple-algebraic-groups) (2013). Journal of Pure and Applied Algebra 217 (2013), no. 12, pp. 2400--2413.  With [Chuck Hague](https://sites.google.com/site/chuckhague/) (The McKeogh Company).   
-#. [Levi decompositions of a linear algebraic group](#levi-decompositions-of-a-linear-algebraic-group) (2010). Transformation Groups 15 (2010), no. 4, pp. 937--964.   [[Errata]](/assets/manuscripts/Errata-Levi-decompositions.pdf) 
+#. [Levi decompositions of a linear algebraic group](#levi-decompositions-of-a-linear-algebraic-group) (2010). Transformation Groups 15 (2010), no. 4, pp. 937--964.   [[Errata]](/assets/manuscripts/errata/errata-levi-decompositions.pdf) 
 #. [Nilpotent centralizers and Springer isomorphisms](#nilpotent-centralizers-and-springer-isomorphisms) (2009). Journal of Pure and Applied Algebra 213 (2009), no. 7, pp. 1346--1363.  With [Donna M. Testerman](https://grtes.epfl.ch/~testerma/) (École Polytechnique Fédérale de Lausanne).   
 #. [Nilpotent subalgebras of semisimple Lie algebras](#nilpotent-subalgebras-of-semisimple-lie-algebras) (2009). Comptes Rendus Mathématique, Académie des Sciences, Paris 347 (2009), no. 9-10, pp. 477--482.  With [Paul Levy](http://www.maths.lancs.ac.uk/~levyp/) (Lancaster University) and [Donna M. Testerman](https://grtes.epfl.ch/~testerma/) (École Polytechnique Fédérale de Lausanne).   
-#. [The centralizer of a nilpotent section](#the-centralizer-of-a-nilpotent-section) (2008). Nagoya Mathematical Journal 190 (2008), pp. 129--181.   [[Errata]](/assets/manuscripts/errata/Erratum: The centralizer of a nilpotent section.pdf) 
+#. [The centralizer of a nilpotent section](#the-centralizer-of-a-nilpotent-section) (2008). Nagoya Mathematical Journal 190 (2008), pp. 129--181.   [[Errata]](/assets/manuscripts/errata/erratum:-the-centralizer-of-a-nilpotent-section.pdf) 
 #. [Completely reducible Lie subalgebras](#completely-reducible-lie-subalgebras) (2007). Transformation Groups 12 (2007), no. 1, pp. 127--135.    
 #. [Completely reducible SL(2) homomorphisms](#completely-reducible-sl(2)-homomorphisms) (2007). Transactions of the American Mathematical Society 359 (2007), no. 9, pp. 4489--4510 (electronic).  With [Donna M. Testerman](https://grtes.epfl.ch/~testerma/) (École Polytechnique Fédérale de Lausanne).   
 #. [On the centralizer of the sum of commuting nilpotent elements](#on-the-centralizer-of-the-sum-of-commuting-nilpotent-elements) (2006). Journal of Pure and Applied Algebra 206 (2006), no. 1-2, pp. 123--140.    
@@ -23,12 +23,12 @@ title: Manuscripts
 #. [Faithful representations of SL(2) over truncated Witt vectors](#faithful-representations-of-sl(2)-over-truncated-witt-vectors) (2003). Journal of Algebra 265 (2003), no. 2, pp. 606--618.    
 #. [Adjoint Jordan Blocks](#adjoint-jordan-blocks) (2003). Unpublished manuscript of 2003.    
 #. [Component groups of unipotent centralizers in good characteristic](#component-groups-of-unipotent-centralizers-in-good-characteristic) (2003). Journal of Algebra 260 (2003), no. 1, pp. 323--337.  With [Eric Sommers](http://people.math.umass.edu/~esommers/) (University of Massachusetts Amherst).   
-#. [The second cohomology of small irreducible modules for simple algebraic groups](#the-second-cohomology-of-small-irreducible-modules-for-simple-algebraic-groups) (2002). Pacific Journal of Mathematics 204 (2002), no. 2, pp. 459--472.   [[Errata]](/assets/manuscripts/Errata---Second-cohomology.pdf) 
-#. [Abelian unipotent subgroups of reductive groups](#abelian-unipotent-subgroups-of-reductive-groups) (2002). Journal of Pure and Applied Algebra 167 (2002), no. 2-3, pp. 269--300.   [[Errata]](/assets/manuscripts/Errata/Abelian Unipotent Subgroups of Reductive Groups - erratum.pdf) 
+#. [The second cohomology of small irreducible modules for simple algebraic groups](#the-second-cohomology-of-small-irreducible-modules-for-simple-algebraic-groups) (2002). Pacific Journal of Mathematics 204 (2002), no. 2, pp. 459--472.   [[Errata]](/assets/manuscripts/errata/errata---second-cohomology.pdf) 
+#. [Abelian unipotent subgroups of reductive groups](#abelian-unipotent-subgroups-of-reductive-groups) (2002). Journal of Pure and Applied Algebra 167 (2002), no. 2-3, pp. 269--300.   [[Errata]](/assets/manuscripts/errata/abelian-unipotent-subgroups-of-reductive-groups---erratum.pdf) 
 #. [Filtrations and positive characteristic Howe duality](#filtrations-and-positive-characteristic-howe-duality) (2000). Mathematische Zeitschrift 235 (2000), no. 4, pp. 651--685.    
-#. [Semisimplicity of exterior powers of semisimple representations of groups](#semisimplicity-of-exterior-powers-of-semisimple-representations-of-groups) (2000). Journal of Algebra 225 (2000), no. 2, pp. 646--666.   [[Errata]](/assets/manuscripts/Errata---Exterior-Powers.pdf) 
+#. [Semisimplicity of exterior powers of semisimple representations of groups](#semisimplicity-of-exterior-powers-of-semisimple-representations-of-groups) (2000). Journal of Algebra 225 (2000), no. 2, pp. 646--666.   [[Errata]](/assets/manuscripts/errata/errata---exterior-powers.pdf) 
 #. [Semisimple modules for finite groups of Lie type](#semisimple-modules-for-finite-groups-of-lie-type) (1999). Journal of the London Mathematical Society 60 (1999), no. 3, pp. 771--792.    
-#. [Dimensional criteria for semisimplicity of representations](#dimensional-criteria-for-semisimplicity-of-representations) (1998). Proceedings of the London Mathematical Society 76 (1998), no. 1, pp. 95--149.   [[Errata]](/assets/manuscripts/errata-for-dimensional-criteria.pdf) 
+#. [Dimensional criteria for semisimplicity of representations](#dimensional-criteria-for-semisimplicity-of-representations) (1998). Proceedings of the London Mathematical Society 76 (1998), no. 1, pp. 95--149.   [[Errata]](/assets/manuscripts/errata/errata-for-dimensional-criteria.pdf) 
 #. [Semisimplicity in positive characteristic](#semisimplicity-in-positive-characteristic) (1998). Algebraic groups and their representations, NATO Adv. Sci. Inst. Ser. C Math. Phys. Sci. 517 (1998), pp. 43--52. Kluwer Acad. Publ., Dordrecht.    
 
 Detailed list
@@ -274,7 +274,7 @@ Levi decompositions of a linear algebraic group
    
    **URLs:** [[gmcninch.math]](https://gmcninch-tufts.github.io/prof-math/assets/manuscripts/levi-decompositions-of-a-linear-algebraic-group.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2753264), [[DOI]](http://dx.doi.org/10.1007/s00031-010-9111-8) and [[arXiv]](http://arxiv.org/abs/1007.2777) 
    
-   [[Errata]](/assets/manuscripts/Errata-Levi-decompositions.pdf) 
+   [[Errata]](/assets/manuscripts/errata/errata-levi-decompositions.pdf) 
    
    **Abstract:** If \\(G\\) is a connected linear algebraic group over the field
    \\(k\\), a Levi factor of \\(G\\) is a reductive complement to the
@@ -357,7 +357,7 @@ The centralizer of a nilpotent section
    
    **URLs:** [[gmcninch.math]](https://gmcninch-tufts.github.io/prof-math/assets/manuscripts/the-centralizer-of-a-nilpotent-section.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2423832), [[arXiv]](http://arxiv.org/abs/math.RT/0605626) and [[Euclid]](http://projecteuclid.org/euclid.nmj/euclid.nmj/1214229081) 
    
-   [[Errata]](/assets/manuscripts/errata/Erratum: The centralizer of a nilpotent section.pdf) 
+   [[Errata]](/assets/manuscripts/errata/erratum:-the-centralizer-of-a-nilpotent-section.pdf) 
    
    **Abstract:** Let \\(F\\) be an algebraically closed field and let \\(G\\) be a
    semisimple algebraic \\(F\\)-group for which the characteristic of
@@ -640,7 +640,7 @@ The second cohomology of small irreducible modules for simple algebraic groups
    
    **URLs:** [[gmcninch.math]](https://gmcninch-tufts.github.io/prof-math/assets/manuscripts/the-second-cohomology-of-small-modules.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1907901), [[arXiv]](http://arxiv.org/abs/math.RT/0006105) and [[DOI]](http://dx.doi.org/10.2140/pjm.2002.204.459) 
    
-   [[Errata]](/assets/manuscripts/Errata---Second-cohomology.pdf) 
+   [[Errata]](/assets/manuscripts/errata/errata---second-cohomology.pdf) 
    
    **Abstract:** Let \\(G\\) be a connected, simply connected, quasisimple
    algebraic group over an algebraically closed field of
@@ -661,7 +661,7 @@ Abelian unipotent subgroups of reductive groups
    
    **URLs:** [[gmcninch.math]](https://gmcninch-tufts.github.io/prof-math/assets/manuscripts/abelian-unipotent-subgroups-of-reductive-groups.pdf), [[DOI]](http://dx.doi.org/10.1016/S0022-4049(01)00038-X), [[arXiv]](http://arxiv.org/abs/math.RT/0007056) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1874545) 
    
-   [[Errata]](/assets/manuscripts/Errata/Abelian Unipotent Subgroups of Reductive Groups - erratum.pdf) 
+   [[Errata]](/assets/manuscripts/errata/abelian-unipotent-subgroups-of-reductive-groups---erratum.pdf) 
    
    **Abstract:** Let \\(G\\) be a connected reductive group defined over an
    algebraically closed field \\(k\\) of characteristic \\(p >
@@ -711,7 +711,7 @@ Semisimplicity of exterior powers of semisimple representations of groups
    
    **URLs:** [[gmcninch.math]](https://gmcninch-tufts.github.io/prof-math/assets/manuscripts/semisimplicity-of-exterior-powers-of-semisimple-representations-of-groups.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1741556) and [[DOI]](http://dx.doi.org/10.1006/jabr.1999.8132) 
    
-   [[Errata]](/assets/manuscripts/Errata---Exterior-Powers.pdf) 
+   [[Errata]](/assets/manuscripts/errata/errata---exterior-powers.pdf) 
    
     
    ------ 
@@ -737,7 +737,7 @@ Dimensional criteria for semisimplicity of representations
    
    **URLs:** [[gmcninch.math]](https://gmcninch-tufts.github.io/prof-math/assets/manuscripts/dimensional-criteria-for-semisimplicity-of-representations.pdf), [[DOI]](http://dx.doi.org/10.1112/S0024611598000045) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1476899) 
    
-   [[Errata]](/assets/manuscripts/errata-for-dimensional-criteria.pdf) 
+   [[Errata]](/assets/manuscripts/errata/errata-for-dimensional-criteria.pdf) 
    
     
    ------ 
