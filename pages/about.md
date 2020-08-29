@@ -1,7 +1,19 @@
 ---
-title: Biographic sketch
+title: About
 author: George McNinch
 ---
+
+Teaching
+===========
+
+I'm currently the *Undergraduate Director* for the [Department of
+Mathematics] at [Tufts University].
+
+In the Fall of 2020 I'm teaching [Math 87 *Mathematical
+Modeling*](http://gmcninch-tufts.github.io/math87-fall2020).
+
+Biographic Sketch
+======================
 
 George McNinch <george.mcninch@tufts.edu> is a Professor in the
 [Department of Mathematics] at [Tufts University].  The focus of
@@ -23,7 +35,8 @@ Recently, McNinch has been an invited speaker at:
 + a [Workshop on Pseudo-Reductive Groups] at Newcastle University
   (UK) in September 2017.
 
-Further information is available from:
+Further Information
+=========================
 
 + McNinch's [Curriculum Vita]
 + [MathSciNet profile page] (subscription paywall)

@@ -1,12 +1,7 @@
-read -p "Commit message: " msg
+#!/usr/bin/env bash
 
-echo "Adding to source repo"
+echo "deploying prof-site"
+read -p "Commit message: " msg
 git add .
 git commit -m "$msg"
 git push origin master
-
-# echo "deploying prof-site"
-# cd /home/george/Web-hakyll/prof-site/
-# git add .
-# git commit -m "$msg"
-# git push origin master
