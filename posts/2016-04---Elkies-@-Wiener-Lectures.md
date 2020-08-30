@@ -10,7 +10,7 @@ summary : |
   Series at Tufts University.
 ---
 
-`Noam Elkies`_ (Harvard University) gave the `Wiener Lectures`_ at the
+[Noam Elkies] (Harvard University) gave the [Wiener Lectures] at the
 Tufts University Math Department in April 2016.
 
   + *Canonical forms: the mathematical structure of musical
@@ -19,5 +19,5 @@ Tufts University Math Department in April 2016.
   + *Poisson summation and packing problems* (Colloquium talk)
   
 
-.. _Noam Elkies: http://www.math.harvard.edu/~elkies/
-.. _Wiener Lectures: http://math.tufts.edu/seminars/lecturesWiener.htm
+[Noam Elkies]: http://www.math.harvard.edu/~elkies/
+[Wiener Lectures]: http://math.tufts.edu/seminars/lecturesWiener.htm

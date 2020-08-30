@@ -8,12 +8,12 @@ summary : >-
   Information on the AY2017-2018 speaker in the Norbert Weiner Lecture Series at Tufts University.
 ---
 
-`Ken Ono`_ (Asa Griggs Candler Professor, Department of Math and CS,
-Emory University) gave the `Wiener Lectures`_ in the Tufts University
+[Ken Ono] (Asa Griggs Candler Professor, Department of Math and CS,
+Emory University) gave the [Wiener Lectures] in the Tufts University
 Math Department in December 2017.
 
-.. _Ken Ono: http://www.mathcs.emory.edu/~ono/
-.. _Wiener Lectures: http://math.tufts.edu/seminars/lecturesWiener.htm
+[Ken Ono]: http://www.mathcs.emory.edu/~ono/
+[Wiener Lectures]: http://math.tufts.edu/seminars/lecturesWiener.htm
 
   Polya's program for the Riemann Hypothesis and related problems
 
@@ -23,8 +23,8 @@ Math Department in December 2017.
   
   + Can't you just feel the moonshine?
 
-.. container:: images
-   :class: image-wrapper-1
+::::::::{.image-wrapper-1}
+[![ref]](/assets/images/2017-Wiener-Ono.jpg) 
+::::::::
 
-   .. image:: /assets/images/2017-Wiener-Ono.jpg
-      :class: image
+[ref]: /assets/images/2017-Wiener-Ono.jpg "" {.image}

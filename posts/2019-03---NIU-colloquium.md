@@ -7,11 +7,11 @@ summary  : |
 ---
 
 I give two talks at the [Northern Illinois University mathematics
-colloquium]( http://www.math.niu.edu/colloq/).
+colloquium](http://www.math.niu.edu/colloq/).
 
 Here are the abstracts, and links for the slides (as pdf documents):
 
-+ `Group cohomology and Levi decompositions for linear groups`_ (Mar 21)
++ [Group cohomology and Levi decompositions for linear groups] (Mar 21)
                 
   *Abstract*: If $G$ is a linear algebraic group over a field $F$, we
   describe what the Hochschild cohomology of $G$ with coefficients in
@@ -24,7 +24,7 @@ Here are the abstracts, and links for the slides (as pdf documents):
   with no Levi decomposition. The talk will give details and examples
   about these notions and results.
 
-+ `Some tools for the study of reductive groups over local fields`_ (Mar 22)
++ [Some tools for the study of reductive groups over local fields] (Mar 22)
 
   *Abstract*: Let $K$ be a local field -- i.e. the field of fractions
   of a complete discrete valuation ring $A$. The study of linear
@@ -42,8 +42,6 @@ Here are the abstracts, and links for the slides (as pdf documents):
   background discussion.
 
   
-.. _Group cohomology and Levi decompositions for linear groups:
-   /assets/slides/2019-03---NIU--Talk-1--transparencies.pdf
+[Group cohomology and Levi decompositions for linear groups]: /assets/slides/2019-03---NIU--Talk-1--transparencies.pdf
    
-.. _Some tools for the study of reductive groups over local fields:
-   /assets/slides/2019-03---NIU--Talk-2--transparencies.pdf
+[Some tools for the study of reductive groups over local fields]: /assets/slides/2019-03---NIU--Talk-2--transparencies.pdf

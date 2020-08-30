@@ -29,8 +29,8 @@ was "open" for activities. A group of us had a nice hike at the
 [Group Photo]: https://www.birs.ca/workshops/2019/19w5046/groupphoto.jpg
 [C-Level Cirque]: https://www.banff.ca/639/C-Level-Cirque
 
-::::::::{.image-container-col}
+::::::::{.image-wrapper-1}
 [![ref]](/assets/images/2019-09--c-level-cirque-trail.jpg)
 ::::::::
 
-[ref]: /assets/images/2019-09--c-level-cirque-trail.jpg
+[ref]: /assets/images/2019-09--c-level-cirque-trail.jpg  "" {.image}

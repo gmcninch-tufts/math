@@ -10,7 +10,7 @@ summary : |
 ---
 
 I was an academic visitor for about 3 weeks in July 2016 at the
-`Centre Intrafacultaire Bernoulli`_, l'École Polytechnique Fédérale de
+[Centre Intrafacultaire Bernoulli], l'École Polytechnique Fédérale de
 Lausanne (EPFL, Switzerland) during the program on *Local
 Representation Theory and Simple Groups* organized by Donna Testerman
 (EPFL), Gunter Malle (TU Kaiserslautern), and Radha Kessar (City
@@ -23,4 +23,4 @@ Wuppertal), and Olivier Dudas (Université Paris Diderot) on - among
 other things - block theory, and aspects of the Deligne-Lusztig
 description of representations of finite reductive groups.
 
-.. _Centre Intrafacultaire Bernoulli: http://cib.epfl.ch/
+[Centre Intrafacultaire Bernoulli]: http://cib.epfl.ch/
