@@ -1,6 +1,6 @@
 ---
 title   : “Reductive subgroup schemes of a parahoric group scheme”
-date    : 2020-02-29
+date    : 2020-02-29 
 tags    :
   - manuscripts
   - local-fields

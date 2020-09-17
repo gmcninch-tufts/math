@@ -3,7 +3,7 @@ author: George McNinch
 title: Manuscripts
 ---
                 
-#. [Nilpotent elements and reductive subgroups over a local field](#nilpotent-elements-and-reductive-subgroups-over-a-local-field) (2020). Preprint (submitted).    
+#. [Nilpotent elements and reductive subgroups over a local field](#nilpotent-elements-and-reductive-subgroups-over-a-local-field) (2020). *To appear in* Algebras and Representation Theory.    
 #. [Reductive subgroup schemes of a parahoric group scheme](#reductive-subgroup-schemes-of-a-parahoric-group-scheme) (2020). Transformation Groups 25 (2020), no. 1, pp. 217-249.    
 #. [Central subalgebras of the centralizer of a nilpotent element](#central-subalgebras-of-the-centralizer-of-a-nilpotent-element) (2016). Proceedings of the American Mathematical Society 144 (2016), no. 6, pp. 2383--2397.  With [Donna M. Testerman](https://grtes.epfl.ch/~testerma/) (École Polytechnique Fédérale de Lausanne).   
 #. [Linearity for actions on vector groups](#linearity-for-actions-on-vector-groups) (2014). Journal of Algebra 397 (2014), pp. 666--688.    
@@ -36,7 +36,7 @@ Detailed list
 
 Nilpotent elements and reductive subgroups over a local field
 -------------------------------------------------------------
-   **Citation:** Preprint (submitted).  
+   **Citation:** *To appear in* Algebras and Representation Theory.  
    
     
    
