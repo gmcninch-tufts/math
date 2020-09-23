@@ -44,28 +44,28 @@ Nilpotent elements and reductive subgroups over a local field
    
     
    
-   **Abstract:** Let \\(K\\) be a *local field* -- i.e. the field of fractions of
-   a complete DVR \\(\\mathcal{A}\\) whose residue field \\(k\\)
-   has characteristic \\(p > 0\\) -- and let \\(G\\) be a
-   connected, absolutely simple algebraic \\(K\\)-group \\(G\\)
-   which splits over an unramified extension of \\(K\\). We study
-   the rational nilpotent orbits of \\(G\\)-- i.e. the orbits of
-   \\(G(K)\\) in the nilpotent elements of
-   \\(\\operatorname{Lie}(G)(K)\\) -- under the assumption
-   \\(p>2h-2\\) where \\(h\\) is the Coxeter number of \\(G\\).
+   **Abstract:** Let $\mathcal{K}$ be a *local field* -- i.e. the field of
+   fractions of a complete DVR $\mathscr{A}$ whose residue field
+   $\mathcal{k}$ has characteristic $p > 0$ -- and let $G$ be a
+   connected, absolutely simple algebraic $\mathcal{K}$-group $G$
+   which splits over an unramified extension of $\mathcal{K}$. We
+   study the rational nilpotent orbits of $G$-- i.e. the orbits of
+   $G(\mathcal{K})$ in the nilpotent elements of
+   $\operatorname{Lie}(G)(\mathcal{K})$ -- under the assumption
+   $p>2h-2$ where $h$ is the Coxeter number of $G$.
    
-   A reductive group \\(M\\) over \\(K\\) is *unramified* if there is
-   a reductive model \\(\\mathcal{M}\\) over \\(\\mathcal{A}\\) for
-   which \\(M = \\mathcal{M}_K\\).  Our main result shows for any
-   nilpotent element \\(X_1 \\in \\operatorname{Lie}(G)\\) that there
-   is an unramified, reductive \\(K\\)-subgroup \\(M\\) which
-   contains a maximal torus of \\(G\\) and for which \\(X_1 \\in
-   \\operatorname{Lie}(M)\\) is *geometrically distinguished*.
+   A reductive group $M$ over $\mathcal{K}$ is *unramified* if there
+   is a reductive model $\mathcal{M}$ over $\mathscr{A}$ for which $M
+   = \mathcal{M}_\mathcal{K}$. Our main result shows for any
+   nilpotent element $X_1 \in \operatorname{Lie}(G)$ that there is an
+   unramified, reductive $\mathcal{K}$-subgroup $M$ which contains a
+   maximal torus of $G$ and for which $X_1 \in \operatorname{Lie}(M)$
+   is *geometrically distinguished*.
    
    The proof uses a variation on a result of DeBacker relating the
-   nilpotent orbits of \\(G\\) with the nilpotent orbits of the
-   reductive quotient of the special fiber for the various parahoric
-   group schemes associated with \\(G\\).
+   nilpotent orbits of $G$ with the nilpotent orbits of the reductive
+   quotient of the special fiber for the various parahoric group
+   schemes associated with $G$.
     
    ------ 
     
