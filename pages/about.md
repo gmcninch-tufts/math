@@ -25,7 +25,7 @@ Recently, McNinch has been an invited speaker at:
 
 + a workshop on [Algebraic Groups, Lie Algebras and their
   Representations] held in November 2018 at the [Max Planck
-  Institute] (Bonn, Germany) in celebratation of the 70th birthday of
+  Institute] (Bonn, Germany) in celebration of the 70th birthday of
   [Jens Carsten Jantzen].
 
 + a workshop [Groupes algébriques et géométrisation du programme de
