@@ -7,13 +7,15 @@ tags    :
   - reductive-groups
   - nilpotent-orbits
 summary : |
-  Paper accepted for publication in *Algebras and Representation Theory*.
+  Paper published online in *Algebras and Representation Theory*.
 ---
 
 My paper [Nilpotent elements and reductive subgroups over a local
 field (2020)](/pages/manuscripts.html#nilpotent-elements-and-reductive-subgroups-over-a-local-field)
-has been accepted for publication in [Algebras and Representation
-Theory](https://www.springer.com/journal/10468?IFA).
+has been published online in [Algebras and Representation
+Theory](https://www.springer.com/journal/10468?IFA). 
+
+Here is the [official version](https://rdcu.be/b8AHO).
 
 
 > **Abstract**:
