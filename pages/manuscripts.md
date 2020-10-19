@@ -40,7 +40,7 @@ Nilpotent elements and reductive subgroups over a local field
    
     
    
-   **URLs:** [[gmcninch.math]](https://gmcninch-tufts.github.io/prof-math/assets/manuscripts/nilpotent-elements-and-reductive-subgroups-over-a-local-field.pdf) and [[DOI]](http://dx.doi.org/10.1007/s10468-020-10000-2) 
+   **URLs:** [[gmcninch.math]](https://gmcninch-tufts.github.io/prof-math/assets/manuscripts/nilpotent-elements-and-reductive-subgroups-over-a-local-field.pdf), [[DOI]](http://dx.doi.org/10.1007/s10468-020-10000-2) and [[URL]](https://rdcu.be/b8AHO) 
    
     
    
