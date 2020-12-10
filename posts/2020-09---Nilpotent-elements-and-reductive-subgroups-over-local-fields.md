@@ -1,5 +1,5 @@
 ---
-title   : MS -- “Nilpotent elements and reductive subgroups over a local field”
+title   : (ms) “Nilpotent elements and reductive subgroups over a local field”
 date    : 2020-09-17
 tags    :
   - manuscripts

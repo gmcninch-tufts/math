@@ -1,5 +1,5 @@
 ---
-title   : MS -- “Reductive subgroup schemes of a parahoric group scheme”
+title   : (ms) “Reductive subgroup schemes of a parahoric group scheme”
 date    : 2020-02-29 
 tags    :
   - manuscripts
