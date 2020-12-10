@@ -9,7 +9,10 @@ Teaching
 I'm currently the *Undergraduate Director* for the [Department of
 Mathematics] at [Tufts University].
 
-In the Fall of 2020 I'm teaching [Math 87 *Mathematical
+In the Spring of 2021, I'm teaching Math 146 *Abstract Algebra II*
+(``aka`` *Galois Theory*).
+
+In the Fall of 2020 I taught [Math 87 *Mathematical
 Modeling*](http://gmcninch-tufts.github.io/math87-fall2020).
 
 Biographic Sketch
