@@ -14,12 +14,6 @@ main = hakyllWith config $ do
         route   idRoute
         compile compressCssCompiler
 
-    -- match (fromList ["cv.html"]) $ do
-    --     route   $ setExtension "html"
-    --     compile $ pandocCompiler
-    --         >>= loadAndApplyTemplate "templates/default.html" defaultContext
-    --         >>= relativizeUrls
-
     match "pages/*md" $ do
         route $ setExtension "html"
         compile $ pandocCompiler
@@ -38,7 +32,7 @@ main = hakyllWith config $ do
     create ["archive.html"] $ do
         route idRoute
         compile $ do
-            posts <- recentFirst =<< loadAll "posts/*"
+            posts <- chronological =<< loadAll "posts/*"
             let archiveCtx =
                     listField "posts" postCtx (return posts) `mappend`
                     constField "title" "Archives"            `mappend`
