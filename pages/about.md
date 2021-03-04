@@ -45,8 +45,11 @@ Further Information
 + McNinch's [Curriculum Vita]
 + [MathSciNet profile page] (subscription paywall)
 + [Google Scholar profile]
-  
-  
++ [![orc-img] ORCID](https://orcid.org/0000-0003-0539-5665){itemprop="sameAs" content="https://orcid.org/0000-0003-0539-5665" href="https://orcid.org/0000-0003-0539-5665" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"}
+
+
+[orc-img]: https://orcid.org/sites/default/files/images/orcid_16x16.png "" {style="width:1em;margin-right:.5em;" alt="ORCID iD icon"}
+
 [Department of Mathematics]: http://math.tufts.edu
 [Tufts University]: http://www.tufts.edu
 [reductive]: https://en.wikipedia.org/wiki/Reductive_group
@@ -67,6 +70,7 @@ Further Information
    http://www.ams.org/mathscinet/search/author.html?mrauthid=625671
 [Google Scholar profile]:
    https://scholar.google.com/citations?user=5keGFj8AAAAJ&hl=en&oi=ao
+
 
 :::::{.image-container-2col}
 [![ref2]](/assets/images/2014-George-Lancaster.jpg)
