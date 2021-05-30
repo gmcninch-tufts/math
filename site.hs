@@ -69,7 +69,10 @@ postCtx =
 
 config :: Configuration
 config = defaultConfiguration
-  { destinationDirectory = "docs"
+  { destinationDirectory = "/home/george/Web-hakyll/prof/docs"
+  , providerDirectory    = "/home/george/Web-hakyll/prof"
+  , storeDirectory       = "/home/george/Web-hakyll/prof/_cache"
+  , tmpDirectory         = "/home/george/Web-hakyll/prof/_cache/tmp"  
   , previewPort          = 9090
-  , deployCommand        = "bash deploy.sh"
+  , deployCommand        = "bash /home/george/Web-hakyll/prof/deploy-prof.sh"
   }

@@ -1,5 +1,7 @@
 resolver: lts-16.31  # Adapt this as needed
+#resolver: lts-17.2  # Adapt this as needed
 packages:
   - .
 extra-deps:
-  - hakyll-4.13.4.0  # Or a later version you installed
+#  - hakyll-4.14.0.0
+#   - hakyll-4.13.3.0  # Or a later version you installed

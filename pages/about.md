@@ -3,17 +3,15 @@ title: About
 author: George McNinch
 ---
 
-Teaching
+Recent teaching info
 ===========
 
-I'm currently the *Undergraduate Director* for the [Department of
-Mathematics] at [Tufts University].
+- In the Fall of 2021, I will teach Math 51 *Differential Equations*.
 
-In the Spring of 2021, I'm teaching [Math 146 *Abstract Algebra
-II*](https://gmcninch-tufts.github.io/math146-spring2021/) (``aka``
-*Galois Theory*).
+- In the Spring of 2021, I'm taught Math 146 *Abstract Algebra II*
+(``aka`` *Galois Theory*).
 
-In the Fall of 2020 I taught Math 87 *Mathematical
+- In the Fall of 2020 I taught Math 87 *Mathematical
 Modeling*.
 
 Biographic Sketch

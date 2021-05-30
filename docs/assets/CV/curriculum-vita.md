@@ -41,7 +41,7 @@ Academic Positions
 Thesis students
 ===============
 
-+ 2017 -- Nariel Monteiro (Ph.D. student), Tufts University.
++ Ph.D. 2021 (expected) -- Nariel Monteiro, Tufts University.
 + Ph.D. 2017 -- [Seth
   Rothschild](https://sites.google.com/site/sethjrothschild/), Tufts
   University.
@@ -149,7 +149,9 @@ Service to Tufts University
 Workshops, Conferences and Lectures
 ===================================
 
-+ 2020-03 -- Invited speaker, Conferenc on [The combinatorics and
++ 2021-04 -- Invited (virtual) participant, [Oberwolfach workshop on
+  Algebraic Groups.](https://www.mfo.de/occasion/2116/www_view)
++ 2020-03 -- Invited speaker, Conference on [The combinatorics and
   geometry of Jordan type and commuting
   varieties](https://sites.google.com/prod/view/nu-one-day-conference),
   Northeastern University (Boston MA) -- *virtual*.
@@ -215,10 +217,6 @@ Workshops, Conferences and Lectures
   Related
   Topics](http://www2.warwick.ac.uk/fac/sci/maths/research/events/2014-15/nonsymposium/fsg/),
   Warwick University (Warwick, UK).
-+ 2015-05 -- Participant, workshop on [The Representation Theory and
-  Geometry of Symplectic
-  Resolutions](http://math.mit.edu/conferences/symplectic-resolutions/index.php),
-  Northeastern University (Boston, MA).
 + 2014-09 -- Invited speaker, workshop on [Geometric Methods in
   Representation Theory](http://www.lancaster.ac.uk/maths/research/),
   University of Lancaster (Lancaster, UK).
@@ -226,8 +224,6 @@ Workshops, Conferences and Lectures
   Conference](http://www.math.union.edu/~niefiels/13conference/conf13/ALG/schedule.html)
   special session on Commutative Algebra and Algebraic Geometry, Union
   College (Schenectady, NY).
-+ 2013-06 -- Seminar speaker, Algebra seminar at the University of
-  Bochum (Bochum, Germany).
 + 2013-06 -- Invited speaker, [Conference on Cohomology in Lie
   Theory](https://sites.google.com/site/cohomologylietheoryconference/home),
   Oxford University (Oxford, UK).
@@ -235,10 +231,6 @@ Workshops, Conferences and Lectures
   the Representation Theory of Reductive
   Groups](http://www.ams.org/meetings/sectional/2210_program_ss19.html),
   AMS sectional meeting at the University of Colorado (Boulder, CO).
-+ 2012-10 -- Seminar speaker, [Group Theory
-  seminar](http://archiveweb.epfl.ch/ctg.epfl.ch/page-88581-en.html),
-  l'École Polytechnique Fédérale de Lausanne (EPFL; Lausanne,
-  Switzerland).
 + 2012-07 -- Participant, workshop on [Cohomology and Support in
   Representation Theory and Related
   Topics](https://sites.math.washington.edu/~pischool/index.html),
@@ -250,21 +242,6 @@ Workshops, Conferences and Lectures
   Algebraic Groups, and Related
   Topics](http://jointmathematicsmeetings.org/meetings/national/jmm/2125_program_ss23.html#title),
   AMS/MAA Joint National Meeting (New Orleans, LA).
-+ 2010-11 -- Seminar speaker, [Lie Groups
-  seminar](http://www-math.mit.edu/~dav/LG/liegroups10.html),
-  Massachusetts Institute of Technology (Cambridge, MA).
-+ 2010-10 -- Seminar speaker, [Algebra
-  seminar](http://research.franklin.uga.edu/agant/), University of
-  Georgia (Athens, GA).
-+ 2010-10 -- Seminar speaker, [Algebra
-  seminar](http://www.mathcs.emory.edu/seminar-flyers/seminar-00456.pdf),
-  Emory University (Atlanta, GA).
-+ 2010-09 -- Seminar speaker, [Algebra
-  seminar](https://www.bc.edu/bc-web/schools/mcas/departments/math/research/seminars-and-colloquia.html),
-  Boston College (Boston, MA).
-+ 2010-09 -- Seminar speaker, [Group theory-Lie theory-Number theory
-  seminar](http://www.math.lsa.umich.edu/seminars_events/index.php),
-  University of Michigan (Ann Arbor, MI).
 + 2009-09 -- Visitor, [Forschungsinstitut für
   Mathematik](https://www.math.ethz.ch/), ETH (Zurich, Switzerland).
 + 2009-08 -- Invited speaker, [Algebraic Groups and Invariant
@@ -275,9 +252,6 @@ Workshops, Conferences and Lectures
   algebras](http://www.ams.org/meetings/sectional/2155_program_ss12.html#title),
   AMS Spring Southeastern Sectional Meeting at the North Carolina
   State University (Raleigh, NC).
-+ 2008-12 -- Seminar speaker, [Group theory-Lie theory-Number theory
-  Seminar](http://www.math.lsa.umich.edu/seminars_events/index.php),
-  University of Michigan (Ann Arbor, MI).
 + 2008-10 -- Invited speaker, special session on [Computation in
   Modular Representation
   Theory](http://www.ams.org/meetings/sectional/2158_program_ss2.html#title),
@@ -288,9 +262,6 @@ Workshops, Conferences and Lectures
   (IGAT](http://archiveweb.epfl.ch/ctg.epfl.ch/page-34501-en.html),
   l'École Polytechnique Fédérale de Lausanne (EPFL; Lausanne,
   Switzerland).
-+ 2007-08 -- Seminar speaker, [Algebra
-  seminar](https://dornsife.usc.edu/mathematics/), University of
-  Southern California (Los Angeles, CA).
 + 2007-05 -- Participant [workshop on Algebraic
   Groups](https://www.mfo.de/occasion/0717/www_view) Mathematisches
   Forschungsinstitut Oberwolfach (Oberwolfach Math Institute,
@@ -303,18 +274,6 @@ Workshops, Conferences and Lectures
   Representation
   Theory](http://jointmathematicsmeetings.org/meetings/national/jmm/2091_progfull.html),
   AMS-MAA Joint Mathematics Meeting (New Orleans, LA).
-+ 2006-09 -- Seminar speaker, [Everytopic mathematics
-  seminar](http://www.brandeis.edu/departments/mathematics/), Brandeis
-  University (Waltham, MA).
-+ 2006-09 -- Seminar speaker, [Algebra
-  Seminar](http://math.au.dk/en/), Aarhus Universitet (Aarhus,
-  Denmark).
-+ 2006-06 -- Seminar speaker, [Geometry - Algebra - Singularities -
-  Combinatorics Seminar](https://cos.northeastern.edu/mathematics/),
-  Northeastern University (Boston, MA).
-+ 2005-11 -- Seminar speaker, [Algebra
-  Seminar](https://www.math.umass.edu/), University of Massachusetts
-  (Amherst, MA).
 + 2005-06 -- Invited speaker and visitor workshop at the [Bernoulli
   Center](https://cib.epfl.ch/), l'École Polytechnique Fédérale de
   Lausanne (EPFL; Lausanne, Switzerland).
@@ -326,14 +285,8 @@ Workshops, Conferences and Lectures
   Representations of Algebraic Groups, Quantum Groups, and Lie
   Algebras](https://www.math.ksu.edu/~zlin/ams2004.html) (Snowbird,
   Utah).
-+ 2004-04 -- Seminar speaker, Automorphic Forms and Representation
-  Theory Seminar, Purdue University (West Lafayette, IN).
 + 2004-03 -- Invited speaker, Seitz Birthday Conference on Groups and
   Representations, University of Oregon (Eugene, OR).
-+ 2004-01 -- Seminar speaker, *Group theory-Lie theory-Number theory
-  Seminar*, University of Michigan (Ann Arbor, MI).
-+ 2003-11 -- Colloquium speaker, Math Department at Wayne State
-  University (Detroit, MI).
 + 2003-05 -- Invited speaker, workshop on *Algebraic Groups, Lie
   Algebras and their Representations*, University of Birmingham
   (Birmingham, UK).
@@ -342,30 +295,14 @@ Workshops, Conferences and Lectures
   Meeting at University of Manchester (Manchester, UK).
 + 2003-02 -- Seminar speaker, *Lie Groups Seminar*, Massachusetts
   Institute of Technology (Cambridge, MA).
-+ 2003-02 -- Seminar speaker, *Lie Theory Seminar*, University of
-  Wisconsin (Madison, WI).
-+ 2002-05 -- Seminar speaker, *Algebra Seminar*, l'École Polytechnique
-  Fédérale de Lausanne (EPFL; (Lausanne, Switzerland).
-+ 2002-03 -- Seminar speaker, *Algebra Seminar* at the University of
-  Massachusetts (Amherst, MA).
 + 2001-06 -- Invited speaker, workshop on *Algebraic Groups*,
   University of Bielefeld (Bielefeld, Germany).
 + 2001-03 -- Participant, workshop on *Algebraic Groups*,
   Mathematisches Forschungsinstitut Oberwolfach (Oberwolfach Math
   Institute; Germany).
-+ 2000-10 -- Invited speaker, Algebra Seminar at Aarhus University
-  (Aarhus, Denmark).
-+ 2000-03 -- Seminar speaker, Algebra seminar at Wayne State
-  University (Detroit, MI).
-+ 1999-10 -- Invited speaker, Algebra Seminar at the University of
-  Wisconsin (Madison, WI).
-+ 1999-06 -- Invited speaker, Algebra seminar at the California
-  Institute of Technology (Los Angeles, CA).
 + 1999-05 -- Invited speaker, special session on *Representation
   Theory and Geometry*, Canadian Math Society meeting (St. John's,
   Newfoundland).
-+ 1998-11 -- Invited speaker, *Algebra Day* workshop [Indiana
-  University](https://www.math.indiana.edu/) (Bloomington, IN).
 + 1998-07 -- Invited speaker, workshop on *Algebraic Representation
   Theory*, [Aarhus University](http://math.au.dk/en/) (Aarhus,
   Denmark).
@@ -382,8 +319,6 @@ Workshops, Conferences and Lectures
   Representation Theory of Algebraic Groups and Related Finite
   Groups](https://www.newton.ac.uk/) at the Isaac Newton Institute for
   Mathematical Sciences (Cambridge, UK).
-+ 1996-11 -- Colloquium speaker [Mathematics Department, University of
-  North Texas](http://math.unt.edu/) (Denton, TX).
 
  
 
