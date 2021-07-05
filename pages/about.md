@@ -8,11 +8,8 @@ Recent teaching info
 
 - In the Fall of 2021, I will teach Math 51 *Differential Equations*.
 
-- In the Spring of 2021, I'm taught Math 146 *Abstract Algebra II*
-(``aka`` *Galois Theory*).
-
-- In the Fall of 2020 I taught Math 87 *Mathematical
-Modeling*.
+- In AY2020-2021, I taught Math 87 *Mathematical Modeling* and Math
+  146 *Abstract Algebra II*.
 
 Biographic Sketch
 ======================
