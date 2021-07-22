@@ -297,14 +297,14 @@ true</code></pre>
 <pre><code>LocateClass:=function(n,q,M)
   G:=GL(n,q);
   cls:=ConjugacyClasses(G);
-  return First(cls,c-&gt;IsConjugate(G,Representative(c),M*Z(q)));
+  return First(cls,c-&gt;IsConjugate(G,Representative(c),M*Z(q)^0));
 end;</code></pre>
 <p>This code uses the boolean-valued function <code>IsConjugate</code>. Note that <code>First(list,f)</code> applies the boolean-valued function <code>f</code> to successive elements of <code>list</code>, and returns the first element of <code>list</code> for which <code>f</code> evaluates to <code>true</code>.</p>
 <p>So for example:</p>
 <pre><code>gap&gt; LocateClass(2,17,[[1,1],[0,1]]);
-[ [ 0*Z(17), Z(17)^10 ], [ Z(17)^0, Z(17)^15 ] ]^G
+[ [ 0*Z(17), Z(17)^8 ], [ Z(17)^0, Z(17)^14 ] ]^G
 gap&gt; LocateClass(2,17,[[1,5],[5,1]]);
-[ [ Z(17)^0, 0*Z(17) ], [ 0*Z(17), Z(17)^5 ] ]^G
+[ [ Z(17)^15, 0*Z(17) ], [ 0*Z(17), Z(17)^4 ] ]^G
 gap&gt; LocateClass(2,17,[[1,5],[5,1]]*Z(17^2));
 fail</code></pre>
 <h1 id="a-bit-more-on-group-actions">A bit more on group actions</h1>
