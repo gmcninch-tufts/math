@@ -430,7 +430,7 @@ conjugacy class in ``GL(n,q)`` containing ``M*Z(q)``.
 LocateClass:=function(n,q,M)
   G:=GL(n,q);
   cls:=ConjugacyClasses(G);
-  return First(cls,c->IsConjugate(G,Representative(c),M*Z(q)));
+  return First(cls,c->IsConjugate(G,Representative(c),M*Z(q)^0));
 end;
 ```
 
@@ -443,9 +443,9 @@ So for example:
 
 ```
 gap> LocateClass(2,17,[[1,1],[0,1]]);
-[ [ 0*Z(17), Z(17)^10 ], [ Z(17)^0, Z(17)^15 ] ]^G
+[ [ 0*Z(17), Z(17)^8 ], [ Z(17)^0, Z(17)^14 ] ]^G
 gap> LocateClass(2,17,[[1,5],[5,1]]);
-[ [ Z(17)^0, 0*Z(17) ], [ 0*Z(17), Z(17)^5 ] ]^G
+[ [ Z(17)^15, 0*Z(17) ], [ 0*Z(17), Z(17)^4 ] ]^G
 gap> LocateClass(2,17,[[1,5],[5,1]]*Z(17^2));
 fail
 ```
