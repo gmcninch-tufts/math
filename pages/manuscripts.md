@@ -1,6 +1,6 @@
 ---
 author: George McNinch
-date: 2021-08-01 09:52:07.786419817 EDT
+date: 2021-08-01 10:01:39.012371473 EDT
 title: Manuscripts
 ---
 
@@ -91,7 +91,7 @@ title: Manuscripts
       Proceedings of the London Mathematical Society 76 (1998), no. 1, pp. 95--149.
 
    #. [Semisimplicity in positive characteristic (1998)](#semisimplicity-in-positive-characteristic)
-      Algebraic groups and their representations NATO Adv. Sci. Inst. Ser. C Math. Phys. Sci. 517 (1998), pp. 43--52.
+      Algebraic groups and their representations, NATO Adv. Sci. Inst. Ser. C Math. Phys. Sci. 517 (1998), pp. 43--52.
 
 
 # Manuscript details
@@ -789,7 +789,7 @@ title: Manuscripts
    --------
 
 ## Semisimplicity in positive characteristic {#semisimplicity-in-positive-characteristic}
-   **Citation:** Algebraic groups and their representations NATO Adv. Sci. Inst. Ser. C Math. Phys. Sci. 517 (1998), pp. 43--52.
+   **Citation:** Algebraic groups and their representations, NATO Adv. Sci. Inst. Ser. C Math. Phys. Sci. 517 (1998), pp. 43--52.
    
    
    
