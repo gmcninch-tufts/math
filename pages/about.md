@@ -59,7 +59,7 @@ Further Information
 
 [Workshop on Pseudo-Reductive Groups]: https://sites.google.com/view/prgs-newcastle/home
 
-[Curriculum Vita]: /assets/CV/curriculum-vita.pdf
+[Curriculum Vita]: /assets/curriculum-vita.pdf
 
 [MathSciNet profile page]:
    http://www.ams.org/mathscinet/search/author.html?mrauthid=625671
