@@ -1,6 +1,6 @@
 ---
 author: George McNinch
-date: 2021-08-01 13:59:05.854758634 EDT
+date: 2021-08-25 12:09:24.52101997 EDT
 title: Manuscripts
 ---
 
@@ -744,7 +744,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/filtrations-and-positive-characteristic-howe-duality.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1801579) and [[DOI]](http://dx.doi.org/10.1007/s002090000157).
+   URLs: [[PDF]]([PDF](/assets/manuscripts/filtrations-and-positive-characteristic-howe-duality.tex)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1801579) and [[DOI]](http://dx.doi.org/10.1007/s002090000157).
    
    
    
