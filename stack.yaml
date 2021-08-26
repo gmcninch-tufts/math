@@ -1,8 +1,14 @@
-resolver: lts-16.31  # Adapt this as needed
-#resolver: lts-18.3  # Adapt this as needed
+
+resolver: lts-17.2  # Adapt this as needed
 packages:
   - .
 extra-deps:
-#  - hakyll-4.14.0.0@sha256:28aab547aa94202d486328aa4bbcd02ecbefc4e5d42dfa15e8137b731a4f5d55,9059  
-#  - hakyll-4.14.0.0
-   - hakyll-4.13.4.0  # Or a later version you installed
+- 'citeproc-0.3.0.9'
+- 'commonmark-0.1.1.4'
+- 'commonmark-extensions-0.2.0.4'
+- 'commonmark-pandoc-0.2.0.1'
+- 'hakyll-4.14.0.0'
+- 'pandoc-2.11.4'
+
+
+  
