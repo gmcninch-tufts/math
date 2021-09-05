@@ -24,7 +24,7 @@ dependencies:
 - hakyll
 
 executables:
-  prof-site:
+  site-prof:
     main:                site.hs
     ghc-options:
     - -threaded

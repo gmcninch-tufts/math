@@ -22,7 +22,7 @@ source-repository head
   type: git
   location: https://github.com/gmcninch/personal
 
-executable prof-site
+executable site-prof
   main-is: site.hs
   other-modules:
       Paths_prof_site
