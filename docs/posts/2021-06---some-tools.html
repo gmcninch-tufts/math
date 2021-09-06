@@ -49,6 +49,11 @@
         Posted on 2021-07-06
         
     </section>
+    <div class="header">
+    
+       Tags: <a title="All pages tagged 'gap'." href="../tags/gap.html">gap</a>, <a title="All pages tagged 'sagemath'." href="../tags/sagemath.html">sagemath</a>, <a title="All pages tagged 'computer algbra'." href="../tags/computer%20algbra.html">computer algbra</a>, <a title="All pages tagged 'jupyter-lab'." href="../tags/jupyter-lab.html">jupyter-lab</a>
+    
+    </div>    
     <section>
         <h1 id="a-overview-of-gap">A overview of <code>gap</code></h1>
 <p><code>Gap</code> is</p>
@@ -60,38 +65,38 @@
 <h2 id="installation">Installation</h2>
 <p>The <a href="https://www.gap-system.org/Download/">installation instructions for <code>GAP</code> can be found here</a>.</p>
 <p>Personally, my computer’s <code>OS</code> is <a href="https://www.debian.org/">Debian GNU/Linux</a>, and I installed <code>GAP</code> by running the command</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a>$ <span class="ex">apt</span> install gap</span></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">$</span> apt install gap</span></code></pre></div>
 <p>but while that is handy, I don’t think the install process should be <strong>too</strong> difficult on any machine.</p>
 <h2 id="starting-gap">Starting <code>GAP</code></h2>
 <p>After installing <code>GAP</code>, open a <code>terminal</code> on the computer and run <code>GAP</code>; you should see something like the following:</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true"></a>$ <span class="ex">gap</span></span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true"></a> ┌───────┐   <span class="ex">GAP</span> 4.11.0 of 29-Feb-2020</span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true"></a> │  <span class="ex">GAP</span>  │   https://www.gap-system.org</span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true"></a> └───────┘   <span class="ex">Architecture</span>: x86_64-pc-linux-gnu-default64-kv7</span>
-<span id="cb2-5"><a href="#cb2-5" aria-hidden="true"></a> <span class="ex">Configuration</span>:  gmp 6.2.1, GASMAN, readline</span>
-<span id="cb2-6"><a href="#cb2-6" aria-hidden="true"></a> <span class="ex">Loading</span> the library and packages ...</span>
-<span id="cb2-7"><a href="#cb2-7" aria-hidden="true"></a> <span class="ex">Packages</span>:   Alnuth 3.1.2, AtlasRep 2.1.0, AutPGrp 1.10.2, CTblLib 1.3.1, </span>
-<span id="cb2-8"><a href="#cb2-8" aria-hidden="true"></a>             <span class="ex">FactInt</span> 1.6.3, GAPDoc 1.6.3, IO 4.7.0, Polycyclic 2.15.1, </span>
-<span id="cb2-9"><a href="#cb2-9" aria-hidden="true"></a>             <span class="ex">PrimGrp</span> 3.4.0, SmallGrp 1.4.1, TomLib 1.2.9, TransGrp 2.0.6</span>
-<span id="cb2-10"><a href="#cb2-10" aria-hidden="true"></a> <span class="ex">Try</span> <span class="st">'??help'</span> for help. See also <span class="st">'?copyright'</span>, <span class="st">'?cite'</span> and <span class="st">'?authors'</span></span>
-<span id="cb2-11"><a href="#cb2-11" aria-hidden="true"></a><span class="ex">gap</span><span class="op">&gt;</span> </span></code></pre></div>
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">$</span> gap</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a> <span class="ex">┌───────┐</span>   GAP 4.11.0 of 29-Feb-2020</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a> <span class="ex">│</span>  GAP  │   https://www.gap-system.org</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a> <span class="ex">└───────┘</span>   Architecture: x86_64-pc-linux-gnu-default64-kv7</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a> <span class="ex">Configuration:</span>  gmp 6.2.1, GASMAN, readline</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a> <span class="ex">Loading</span> the library and packages ...</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a> <span class="ex">Packages:</span>   Alnuth 3.1.2, AtlasRep 2.1.0, AutPGrp 1.10.2, CTblLib 1.3.1, </span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>             <span class="ex">FactInt</span> 1.6.3, GAPDoc 1.6.3, IO 4.7.0, Polycyclic 2.15.1, </span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>             <span class="ex">PrimGrp</span> 3.4.0, SmallGrp 1.4.1, TomLib 1.2.9, TransGrp 2.0.6</span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a> <span class="ex">Try</span> <span class="st">'??help'</span> for help. See also <span class="st">'?copyright'</span>, <span class="st">'?cite'</span> and <span class="st">'?authors'</span></span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a><span class="ex">gap</span><span class="op">&gt;</span> </span></code></pre></div>
 <p>The bit at the end – i.e. <code>gap&gt;</code> – is a <em>prompt</em>, and it indicates that <code>GAP</code> is waiting for you to type a command. Once you do so and press <code>Enter</code>, <code>GAP</code> will (try to) execute the command you entered.</p>
 <p>It will print any output (or errors) from the command on the screen, and then it will display another prompt and again wait for input.</p>
 <h1 id="permutation-groups">Permutation Groups</h1>
 <p>In <code>GAP</code>, probably the most straightforward way of representing (finite) groups is as permutation groups – i.e. subgroups of <span class="math inline"><em>S</em><sub><em>n</em></sub></span> for some <span class="math inline"><em>n</em> ≥ 1</span>.</p>
 <p>For example, one knows that the symmetric group <span class="math inline"><em>S</em><sub><em>n</em></sub></span> is generated by an <span class="math inline"><em>n</em></span>-cycle and a transposition. In <code>GAP</code>, we may check this for some chosen <span class="math inline"><em>n</em></span> – say, <span class="math inline"><em>n</em> = 8</span> – as follows:</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true"></a><span class="ex">gap</span><span class="op">&gt;</span> G := Group((1,2),<span class="kw">(</span><span class="ex">1</span>,2,3,4,5,6,7,8<span class="kw">)</span>);</span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true"></a><span class="ex">Group</span>([ (1,2), <span class="kw">(</span><span class="ex">1</span>,2,3,4,5,6,7,8<span class="kw">)</span> ])</span>
-<span id="cb3-3"><a href="#cb3-3" aria-hidden="true"></a><span class="ex">gap</span><span class="op">&gt;</span> Order(G) = <span class="ex">Factorial</span>(8);</span>
-<span id="cb3-4"><a href="#cb3-4" aria-hidden="true"></a><span class="fu">true</span></span></code></pre></div>
+<div class="sourceCode" id="cb3"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">gap</span><span class="op">&gt;</span> G := Group<span class="er">(</span><span class="kw">(</span><span class="ex">1,2</span><span class="kw">)</span><span class="ex">,</span><span class="er">(</span><span class="ex">1,2,3,4,5,6,7,8</span><span class="kw">));</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="ex">Group</span><span class="er">(</span><span class="bu">[</span> <span class="er">(</span>1,2<span class="er">)</span>, <span class="er">(</span>1,2,3,4,5,6,7,8<span class="er">)</span> ]<span class="er">)</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="er">gap&gt;</span> <span class="er">Order(G)</span> = Factorial<span class="er">(</span><span class="ex">8</span><span class="kw">);</span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="fu">true</span></span></code></pre></div>
 <p>Note that elements are represented as <em>products of disjoint cycles</em>. If you enter them otherwise, <code>GAP</code> rewrites your representation as a product of disjoint cycles:</p>
 <pre><code>gap&gt; (1,2,3,4)*(1,2,5);
 (1,5)(2,3,4)</code></pre>
 <p>We can ask about the derived subgroup of <span class="math inline"><em>G</em></span>:</p>
-<div class="sourceCode" id="cb5"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true"></a><span class="ex">gap</span><span class="op">&gt;</span> H := DerivedSubgroup(G);</span>
-<span id="cb5-2"><a href="#cb5-2" aria-hidden="true"></a><span class="ex">Group</span>([ (1,2,3), <span class="kw">(</span><span class="ex">2</span>,4,3<span class="kw">)</span>, <span class="kw">(</span><span class="ex">2</span>,4,5<span class="kw">)</span>, <span class="kw">(</span><span class="ex">2</span>,5,6,3,4<span class="kw">)</span>, <span class="kw">(</span><span class="ex">3</span>,7,4<span class="kw">)</span>, <span class="kw">(</span><span class="ex">2</span>,6<span class="kw">)(</span><span class="ex">4</span>,7,8,5<span class="kw">)</span> ])</span>
-<span id="cb5-3"><a href="#cb5-3" aria-hidden="true"></a><span class="ex">gap</span><span class="op">&gt;</span> Order(H) = <span class="ex">Factorial</span>(8)<span class="ex">/2</span>;</span>
-<span id="cb5-4"><a href="#cb5-4" aria-hidden="true"></a><span class="fu">true</span></span></code></pre></div>
+<div class="sourceCode" id="cb5"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="ex">gap</span><span class="op">&gt;</span> H := DerivedSubgroup<span class="er">(</span><span class="ex">G</span><span class="kw">);</span></span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="ex">Group</span><span class="er">(</span><span class="bu">[</span> <span class="er">(</span>1,2,3<span class="er">)</span>, <span class="er">(</span>2,4,3<span class="er">)</span>, <span class="er">(</span>2,4,5<span class="er">)</span>, <span class="er">(2,5,6,3,4),</span> <span class="er">(</span><span class="ex">3,7,4</span><span class="kw">)</span><span class="ex">,</span> <span class="er">(</span><span class="ex">2,6</span><span class="kw">)(</span><span class="ex">4,7,8,5</span><span class="kw">)</span> <span class="ex">]</span><span class="kw">)</span></span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="ex">gap</span><span class="op">&gt;</span> Order<span class="er">(</span><span class="ex">H</span><span class="kw">)</span> <span class="ex">=</span> Factorial<span class="er">(</span><span class="ex">8</span><span class="kw">)</span><span class="ex">/2</span><span class="kw">;</span></span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="fu">true</span></span></code></pre></div>
 <p>And we can ask about <em>simplicity</em> of groups:</p>
 <pre><code>gap&gt; IsSimple(H);
 true
@@ -263,7 +268,7 @@ GL(3,17)
 gap&gt; Order(G);
 111203278848</code></pre>
 <p>Similarly, we can construct the <em>special linear group</em> – the kernel of</p>
-<p><br /><span class="math display">det  : GL<sub><em>n</em></sub>(𝔽<sub><em>q</em></sub>) → 𝔽<sub><em>q</em></sub><sup>×</sup></span><br /></p>
+<p><span class="math display">det  : GL<sub><em>n</em></sub>(𝔽<sub><em>q</em></sub>) → 𝔽<sub><em>q</em></sub><sup>×</sup></span></p>
 <p>– using <code>SL(n,q)</code>.</p>
 <p><code>GAP</code> has constructors for other matrix groups (projective special linear group, symplectic group, unitary group , orthogonal group, …) which I’m going to ignore today.</p>
 <p>It is a fact that unless <code>(n,q) ∈ [(2,2),(2,3)]</code> one knows that <code>SL(n,q)</code> is a simple group <span class="math inline"> ⇔ gcd (<em>n</em>, <em>q</em> − 1) = 1</span>, which we can confirm in some cases in <code>GAP</code>:</p>
@@ -328,13 +333,13 @@ gap&gt; oo[1];
 gap&gt; Length(oo[2]);
 168</code></pre>
 <p>Now, the stabilizer of a 1-dimensional subspace is the “upper triangular subgroup”, which we can construct as the normalizer of a <span class="math inline">13</span>-sylow subgroup.</p>
-<p>A 13-sylow subgroup is equal to <br /><span class="math display">$$\left\{\begin{bmatrix}
+<p>A 13-sylow subgroup is equal to <span class="math display">$$\left\{\begin{bmatrix}
 1 &amp; x \\
 0 &amp; 1
-\end{bmatrix} \mid x \in \mathbb{F}_{13}.\right\}$$</span><br /> and the normalizer this sylow is <br /><span class="math display">$$B=\left\{\begin{bmatrix}
+\end{bmatrix} \mid x \in \mathbb{F}_{13}.\right\}$$</span> and the normalizer this sylow is <span class="math display">$$B=\left\{\begin{bmatrix}
 a &amp; x \\
 0 &amp; b
-\end{bmatrix} \mid a,b,x \in \mathbb{F}_{13}, ab \ne 0.\right\}$$</span><br /></p>
+\end{bmatrix} \mid a,b,x \in \mathbb{F}_{13}, ab \ne 0.\right\}$$</span></p>
 <p>Let’s describe <span class="math inline"><em>B</em></span> using <code>GAP</code> in two ways:</p>
 <p>As normalizer:</p>
 <pre><code>gap&gt; u:=[[1,1],[0,1]]*Z(13)^0;
@@ -384,7 +389,7 @@ true</code></pre>
    [ [ 0*Z(13), Z(13)^8 ], [ Z(13)^2, Z(13) ] ]), 
   RightCoset(&lt;group of size 1872 with 2 generators&gt;,
    [ [ Z(13)^0, Z(13) ], [ Z(13)^9, Z(13)^7 ] ]) ]</code></pre>
-<p>This action corresponds to a homomorphism <br /><span class="math display">GL<sub>2</sub>(𝔽<sub>13</sub>) → <em>S</em><sub>14</sub></span><br /> which we can create in <code>GAP</code> as follows:</p>
+<p>This action corresponds to a homomorphism <span class="math display">GL<sub>2</sub>(𝔽<sub>13</sub>) → <em>S</em><sub>14</sub></span> which we can create in <code>GAP</code> as follows:</p>
 <pre><code>gap&gt; hom:=ActionHomomorphism(G,P1,OnRight);
 gap&gt; Image(hom);
 Group([ (3,4,6,10,12,7,5,13,14,9,11,8), (1,2,3)(4,8,5)(7,12,9)(10,14,13) ])

@@ -55,7 +55,23 @@ article .header {
   text-decoration: none;
 }
 
+.post-list a { color: darkred;
+    text-decoration: none;
+  }
 
+.tags a { color: grey;
+	  text-decoration: none;
+	}
+
+.post-list td {
+    font-size: 16px;
+    border-bottom: 1px solid #000;
+}
+
+td.tags  {
+    width: 100px;
+    font-size: 11px;
+}
 
 @media (max-width: 319px) {
   body {
