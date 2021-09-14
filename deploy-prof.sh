@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 echo "rebuilding CV"
-/home/george/bin/make-cv.py
+/home/george/.local/bin/make-cv.py
 
 echo "deploying prof-site"
 cd /home/george/Web-hakyll/prof/
