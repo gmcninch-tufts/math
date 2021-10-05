@@ -1,6 +1,6 @@
 ---
 author: George McNinch
-date: 2021-09-14 13:27:42.950791706 EDT
+date: 2021-10-05 18:30:39.532813411 EDT
 title: Manuscripts
 ---
 
@@ -102,7 +102,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/nilpotent-elements-and-reductive-subgroups-over-a-local-field.pdf)), [[DOI]](http://dx.doi.org/10.1007/s10468-020-10000-2) and [[Journal]](https://rdcu.be/b8AHO).
+   URLs: [[PDF]](/assets/manuscripts/nilpotent-elements-and-reductive-subgroups-over-a-local-field.pdf), [[DOI]](http://dx.doi.org/10.1007/s10468-020-10000-2) and [[Journal]](https://rdcu.be/b8AHO).
    
    **Abstract:**
    Let $\mathcal{K}$ be a *local field* -- i.e. the field of fractions of
@@ -137,7 +137,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/reductive-subgroups-of-a-parahoric-group-scheme.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR4070108), [[DOI]](http://dx.doi.org/10.1007/s00031-018-9508-3) and [[Journal]](https://rdcu.be/bb6vn).
+   URLs: [[PDF]](/assets/manuscripts/reductive-subgroups-of-a-parahoric-group-scheme.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR4070108), [[DOI]](http://dx.doi.org/10.1007/s00031-018-9508-3) and [[Journal]](https://rdcu.be/bb6vn).
    
    **Abstract:**
    Let $K$ be the field of fractions of a complete discrete valuation
@@ -169,7 +169,7 @@ title: Manuscripts
    With [Donna M. Testerman](https://grtes.epfl.ch/~testerma/) (École Polytechnique Fédérale de Lausanne).
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/mcninch-and-testerman---central-subalgebras---proc-ams-final.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR3477055) and [[DOI]](http://dx.doi.org/10.1090/proc/12942).
+   URLs: [[PDF]](/assets/manuscripts/mcninch-and-testerman---central-subalgebras---proc-ams-final.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR3477055) and [[DOI]](http://dx.doi.org/10.1090/proc/12942).
    
    **Abstract:**
    Let $G$ be a connected, semisimple algebraic group over a field $k$
@@ -201,7 +201,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/linearity-for-actions-on-vector-groups---2013-09.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR3119244) and [[DOI]](http://dx.doi.org/10.1016/j.jalgebra.2013.08.030).
+   URLs: [[PDF]](/assets/manuscripts/linearity-for-actions-on-vector-groups---2013-09.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR3119244) and [[DOI]](http://dx.doi.org/10.1016/j.jalgebra.2013.08.030).
    
    **Abstract:**
    Let $k$ be an arbitrary field, let $G$ be a (smooth) linear algebraic
@@ -234,7 +234,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/2013-01---levi-factors-of-special-fiber-of-parahoric-and-tame-ramification.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR3181732) and [[DOI]](http://dx.doi.org/10.1007/s10468-013-9404-4).
+   URLs: [[PDF]](/assets/manuscripts/2013-01---levi-factors-of-special-fiber-of-parahoric-and-tame-ramification.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR3181732) and [[DOI]](http://dx.doi.org/10.1007/s10468-013-9404-4).
    
    **Abstract:**
    Let $A$ be a Henselian discrete valuation ring with fractions $K$ and
@@ -260,7 +260,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/on-the-descent-of-levi-factors.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR3009659) and [[DOI]](http://dx.doi.org/10.1007/s00013-012-0467-y).
+   URLs: [[PDF]](/assets/manuscripts/on-the-descent-of-levi-factors.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR3009659) and [[DOI]](http://dx.doi.org/10.1007/s00013-012-0467-y).
    
    **Abstract:**
    Let $G$ be a linear algebraic group over a field $k$ of characteristic
@@ -295,7 +295,7 @@ title: Manuscripts
    With [Chuck Hague](https://sites.google.com/site/chuckhague/) (The McKeogh Company).
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/some-good-filtration-subgroups-of-simple-algebraic-groups---2012-05.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR3057320), [[arXiv]](http://arxiv.org/abs/1205.1719) and [[DOI]](http://dx.doi.org/10.1016/j.jpaa.2013.04.005).
+   URLs: [[PDF]](/assets/manuscripts/some-good-filtration-subgroups-of-simple-algebraic-groups---2012-05.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR3057320), [[arXiv]](http://arxiv.org/abs/1205.1719) and [[DOI]](http://dx.doi.org/10.1016/j.jpaa.2013.04.005).
    
    **Abstract:**
    Let $G$ be a connected and reductive algebraic group over an
@@ -326,7 +326,7 @@ title: Manuscripts
    [Errata](/assets/manuscripts/errata/errata-levi-decompositions.pdf)
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/levi-decompositions-of-a-linear-algebraic-group.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2753264), [[DOI]](http://dx.doi.org/10.1007/s00031-010-9111-8) and [[arXiv]](http://arxiv.org/abs/1007.2777).
+   URLs: [[PDF]](/assets/manuscripts/levi-decompositions-of-a-linear-algebraic-group.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2753264), [[DOI]](http://dx.doi.org/10.1007/s00031-010-9111-8) and [[arXiv]](http://arxiv.org/abs/1007.2777).
    
    **Abstract:**
    If $G$ is a connected linear algebraic group over the field $k$, a
@@ -356,7 +356,7 @@ title: Manuscripts
    With [Donna M. Testerman](https://grtes.epfl.ch/~testerma/) (École Polytechnique Fédérale de Lausanne).
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/nilpotent-centralizers-and-springer-isomorphisms.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2497582), [[DOI]](http://dx.doi.org/10.1016/j.jpaa.2008.12.007) and [[arXiv]](http://arxiv.org/abs/0805.2574).
+   URLs: [[PDF]](/assets/manuscripts/nilpotent-centralizers-and-springer-isomorphisms.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2497582), [[DOI]](http://dx.doi.org/10.1016/j.jpaa.2008.12.007) and [[arXiv]](http://arxiv.org/abs/0805.2574).
    
    **Abstract:**
    Let $G$ be a semisimple algebraic group over a field $K$ whose
@@ -386,7 +386,7 @@ title: Manuscripts
    With [Paul Levy](http://www.maths.lancs.ac.uk/~levyp/) (Lancaster University) and [Donna M. Testerman](https://grtes.epfl.ch/~testerma/) (École Polytechnique Fédérale de Lausanne).
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/levy-mcninch-and-testerman---nilpotent-subalgebras-of-semisimple-lie-algebras.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2576893) and [[DOI]](http://dx.doi.org/10.1016/j.crma.2009.03.015).
+   URLs: [[PDF]](/assets/manuscripts/levy-mcninch-and-testerman---nilpotent-subalgebras-of-semisimple-lie-algebras.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2576893) and [[DOI]](http://dx.doi.org/10.1016/j.crma.2009.03.015).
    
    **Abstract:**
    Let $\operatorname{Lie}(G)$ be the Lie algebra of a
@@ -409,7 +409,7 @@ title: Manuscripts
    [Errata](/assets/manuscripts/errata/errataerratum:-the-centralizer-of-a-nilpotent-section.pdf)
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/the-centralizer-of-a-nilpotent-section.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2423832), [[arXiv]](http://arxiv.org/abs/math.RT/0605626) and [[Euclid]](http://projecteuclid.org/euclid.nymj/euclid.nmj/1214229081).
+   URLs: [[PDF]](/assets/manuscripts/the-centralizer-of-a-nilpotent-section.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2423832), [[arXiv]](http://arxiv.org/abs/math.RT/0605626) and [[Euclid]](http://projecteuclid.org/euclid.nymj/euclid.nmj/1214229081).
    
    **Abstract:**
    Let $F$ be an algebraically closed field and let $G$ be a
@@ -441,7 +441,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/completely-reducible-lie-subalgebras-revised-dec.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2308032), [[DOI]](http://dx.doi.org/10.1007/s00031-005-1130-5) and [[arXiv]](http://arxiv.org/abs/math.RT/0509590).
+   URLs: [[PDF]](/assets/manuscripts/completely-reducible-lie-subalgebras-revised-dec.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2308032), [[DOI]](http://dx.doi.org/10.1007/s00031-005-1130-5) and [[arXiv]](http://arxiv.org/abs/math.RT/0509590).
    
    **Abstract:**
    Let $G$ be a connected and reductive group over the algebraically
@@ -462,7 +462,7 @@ title: Manuscripts
    With [Donna M. Testerman](https://grtes.epfl.ch/~testerma/) (École Polytechnique Fédérale de Lausanne).
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/completely-reducible-sl2-homomorphisms.pdf)), [[DOI]](http://dx.doi.org/10.1090/S0002-9947-07-04289-4), [[arXiv]](http://arxiv.org/abs/math.RT/0510377) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2309195).
+   URLs: [[PDF]](/assets/manuscripts/completely-reducible-sl2-homomorphisms.pdf), [[DOI]](http://dx.doi.org/10.1090/S0002-9947-07-04289-4), [[arXiv]](http://arxiv.org/abs/math.RT/0510377) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2309195).
    
    **Abstract:**
    Let $K$ be any field, and let $G$ be a semisimple group
@@ -487,7 +487,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/on-the-centralizer-of-the-sum-of-commuting-nilpotent-elements.pdf)), [[DOI]](http://dx.doi.org/10.1016/j.jpaa.2005.04.016), [[arXiv]](http://arxiv.org/abs/math.RT/0412283) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2220085).
+   URLs: [[PDF]](/assets/manuscripts/on-the-centralizer-of-the-sum-of-commuting-nilpotent-elements.pdf), [[DOI]](http://dx.doi.org/10.1016/j.jpaa.2005.04.016), [[arXiv]](http://arxiv.org/abs/math.RT/0412283) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2220085).
    
    **Abstract:**
    Let $X$ and $Y$ be commuting nilpotent $K$ endomorphisms of a vector
@@ -510,7 +510,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/optimal-sl2-homomorphisms.pdf)), [[arXiv]](http://arxiv.org/abs/math.RT/0309385), [[DOI]](http://dx.doi.org/10.4171/CMH/19) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2142248).
+   URLs: [[PDF]](/assets/manuscripts/optimal-sl2-homomorphisms.pdf), [[arXiv]](http://arxiv.org/abs/math.RT/0309385), [[DOI]](http://dx.doi.org/10.4171/CMH/19) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2142248).
    
    **Abstract:**
    Let $G$ be a semisimple group over an algebraically closed field of
@@ -543,7 +543,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/nilpotent-orbits-over-ground-fields-of-good-characteristic.pdf)), [[DOI]](http://dx.doi.org/10.1007/s00208-004-0510-9), [[arXiv]](http://arxiv.org/abs/math.RT/0209151) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2052869).
+   URLs: [[PDF]](/assets/manuscripts/nilpotent-orbits-over-ground-fields-of-good-characteristic.pdf), [[DOI]](http://dx.doi.org/10.1007/s00208-004-0510-9), [[arXiv]](http://arxiv.org/abs/math.RT/0209151) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2052869).
    
    **Abstract:**
    Let $X$ be an $F$-rational nilpotent element in the Lie
@@ -573,7 +573,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/sub-principal-homomorphisms-in-positive-characteristic.pdf)), [[arXiv]](http://arxiv.org/abs/math/0108140), [[DOI]](http://dx.doi.org/10.1007/s00209-003-0508-0) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1992546).
+   URLs: [[PDF]](/assets/manuscripts/sub-principal-homomorphisms-in-positive-characteristic.pdf), [[arXiv]](http://arxiv.org/abs/math/0108140), [[DOI]](http://dx.doi.org/10.1007/s00209-003-0508-0) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1992546).
    
    **Abstract:**
    Let $G$ be a reductive group over an algebraically closed
@@ -610,7 +610,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/faithful-representations-of-sl2-over-truncated-witt-vectors.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1987019), [[arXiv]](http://arxiv.org/abs/math.RT/0109107) and [[DOI]](http://dx.doi.org/10.1016/S0021-8693(03)00269-2).
+   URLs: [[PDF]](/assets/manuscripts/faithful-representations-of-sl2-over-truncated-witt-vectors.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1987019), [[arXiv]](http://arxiv.org/abs/math.RT/0109107) and [[DOI]](http://dx.doi.org/10.1016/S0021-8693(03)00269-2).
    
    **Abstract:**
    Let $Γ_2$ be the six dimensional linear algebraic $k$-group
@@ -629,7 +629,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/2003-08---adjoint-jordan-blocks.pdf)) and [[arXiv]](http://arxiv.org/abs/math/0207001).
+   URLs: [[PDF]](/assets/manuscripts/2003-08---adjoint-jordan-blocks.pdf) and [[arXiv]](http://arxiv.org/abs/math/0207001).
    
    **Abstract:**
    Let $G$ be a quasisimple algebraic group over an algebraically closed
@@ -659,7 +659,7 @@ title: Manuscripts
    With [Eric Sommers](http://people.math.umass.edu/~esommers/) (University of Massachusetts Amherst).
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/component-groups-of-unipotent-centralizers-in-good-characteristic.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1976698), [[DOI]](http://dx.doi.org/10.1016/S0021-8693(02)00661-0) and [[arXiv]](http://arxiv.org/abs/math.RT/0204275).
+   URLs: [[PDF]](/assets/manuscripts/component-groups-of-unipotent-centralizers-in-good-characteristic.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1976698), [[DOI]](http://dx.doi.org/10.1016/S0021-8693(02)00661-0) and [[arXiv]](http://arxiv.org/abs/math.RT/0204275).
    
    **Abstract:**
    Let $G$ be a connected, reductive group over an algebraically
@@ -688,7 +688,7 @@ title: Manuscripts
    [Errata](/assets/manuscripts/errata/errata---second-cohomology.pdf)
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/the-second-cohomology-of-small-modules.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1907901), [[arXiv]](http://arxiv.org/abs/math.RT/0006105) and [[DOI]](http://dx.doi.org/10.2140/pjm.2002.204.459).
+   URLs: [[PDF]](/assets/manuscripts/the-second-cohomology-of-small-modules.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1907901), [[arXiv]](http://arxiv.org/abs/math.RT/0006105) and [[DOI]](http://dx.doi.org/10.2140/pjm.2002.204.459).
    
    **Abstract:**
    Let $G$ be a connected, simply connected, quasisimple algebraic group
@@ -710,7 +710,7 @@ title: Manuscripts
    [Errata](/assets/manuscripts/errata/errataabelian-unipotent-subgroups-of-reductive-groups---erratum.pdf)
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/abelian-unipotent-subgroups-of-reductive-groups.pdf)), [[DOI]](http://dx.doi.org/10.1016/S0022-4049(01)00038-X), [[arXiv]](http://arxiv.org/abs/math.RT/0007056) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1874545).
+   URLs: [[PDF]](/assets/manuscripts/abelian-unipotent-subgroups-of-reductive-groups.pdf), [[DOI]](http://dx.doi.org/10.1016/S0022-4049(01)00038-X), [[arXiv]](http://arxiv.org/abs/math.RT/0007056) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1874545).
    
    **Abstract:**
    Let $G$ be a connected reductive group defined over an algebraically
@@ -744,7 +744,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/filtrations-and-positive-characteristic-howe-duality.tex)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1801579) and [[DOI]](http://dx.doi.org/10.1007/s002090000157).
+   URLs: [[PDF]](/assets/manuscripts/filtrations-and-positive-characteristic-howe-duality.tex), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1801579) and [[DOI]](http://dx.doi.org/10.1007/s002090000157).
    
    
    
@@ -757,7 +757,7 @@ title: Manuscripts
    [Errata](/assets/manuscripts/errata/errata---exterior-powers.pdf)
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/semisimplicity-of-exterior-powers-of-semisimple-representations-of-groups.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1741556) and [[DOI]](http://dx.doi.org/10.1006/jabr.1999.8132).
+   URLs: [[PDF]](/assets/manuscripts/semisimplicity-of-exterior-powers-of-semisimple-representations-of-groups.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1741556) and [[DOI]](http://dx.doi.org/10.1006/jabr.1999.8132).
    
    
    
@@ -769,7 +769,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/semisimple-modules-for-finite-groups-of-lie-type.pdf)), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1753813) and [[DOI]](http://dx.doi.org/10.1112/S0024610799007966).
+   URLs: [[PDF]](/assets/manuscripts/semisimple-modules-for-finite-groups-of-lie-type.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1753813) and [[DOI]](http://dx.doi.org/10.1112/S0024610799007966).
    
    
    
@@ -782,7 +782,7 @@ title: Manuscripts
    [Errata](/assets/manuscripts/errata/errata-for-dimensional-criteria.pdf)
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/dimensional-criteria-for-semisimplicity-of-representations.pdf)), [[DOI]](http://dx.doi.org/10.1112/S0024611598000045) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1476899).
+   URLs: [[PDF]](/assets/manuscripts/dimensional-criteria-for-semisimplicity-of-representations.pdf), [[DOI]](http://dx.doi.org/10.1112/S0024611598000045) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1476899).
    
    
    
@@ -794,7 +794,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]]([PDF](/assets/manuscripts/semisimplicity-in-positive-characteristic-survey.pdf)) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1670763).
+   URLs: [[PDF]](/assets/manuscripts/semisimplicity-in-positive-characteristic-survey.pdf) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1670763).
    
    
    
