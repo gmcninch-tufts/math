@@ -1,13 +1,13 @@
 ---
 author: George McNinch
-date: 2021-10-05 18:30:39.532813411 EDT
+date: 2021-11-17 15:19:58.502970408 EST
 title: Manuscripts
 ---
 
 # Manuscript summary
 
    #. [Nilpotent elements and reductive subgroups over a local field (2021)](#nilpotent-elements-and-reductive-subgroups-over-a-local-field)
-      To appear in: Algebras and Representation Theory (expected date 2021).
+      Algebras and Representation Theory 24 (2021), pp. 1479-1522.
 
    #. [Reductive subgroup schemes of a parahoric group scheme (2020)](#reductive-subgroup-schemes-of-a-parahoric-group-scheme)
       Transformation Groups 25 (2020), no. 1, pp. 217-249.
@@ -97,7 +97,7 @@ title: Manuscripts
 # Manuscript details
 
 ## Nilpotent elements and reductive subgroups over a local field {#nilpotent-elements-and-reductive-subgroups-over-a-local-field}
-   **Citation:** To appear in: Algebras and Representation Theory (expected date 2021).
+   **Citation:** Algebras and Representation Theory 24 (2021), pp. 1479-1522.
    
    
    
