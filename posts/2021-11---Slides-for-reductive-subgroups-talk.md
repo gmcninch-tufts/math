@@ -12,7 +12,7 @@ summary : |
 Find below the notes for my talk in the [Special Session on
 Cohomology, Representation Theory, and Lie
 Theory](https://www.ams.org/meetings/sectional/2289_program_ss16.html#title)
-at the [AMS sectional
+at the [AMS Fall Southeastern sectional
 meeting](https://www.ams.org/meetings/sectional/2289_program.html) of
 November 20, 2021.
 
