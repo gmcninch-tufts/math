@@ -1,6 +1,6 @@
 ---
 author: George McNinch
-date: 2021-11-20 09:55:26.946815653 EST
+date: 2021-11-20 17:00:38.264815128 EST
 title: Manuscripts
 ---
 
@@ -102,7 +102,7 @@ title: Manuscripts
    
    
    
-   URLs: [[PDF]](/assets/manuscripts/nilpotent-elements-and-reductive-subgroups-over-a-local-field.pdf), [[DOI]](http://dx.doi.org/10.1007/s10468-020-10000-2) and [[Journal]](https://rdcu.be/b8AHO).
+   URLs: [[PDF]](/assets/manuscripts/nilpotent-elements-and-reductive-subgroups-over-a-local-field.pdf), [[DOI]](http://dx.doi.org/10.1007/s10468-020-10000-2), [[Journal]](https://rdcu.be/b8AHO) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR4340850).
    
    **Abstract:**
    Let $\mathcal{K}$ be a *local field* -- i.e. the field of fractions of
