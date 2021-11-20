@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="George McNinch" />
+  <meta name="dcterms.date" content="2021-11-20" />
+  <title>Reductive subgroups of a reductive algebraic group over a local field</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <link rel="stylesheet" href="/home/george/Classes/math51-fall2021/assets/default.css" />
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Reductive subgroups of a reductive algebraic group over a local field</h1>
+<p class="author">George McNinch</p>
+<p class="date">2021-11-20</p>
+</header>
+<!-- # Reductive groups -->
+<h1 id="overview">Overview</h1>
+<div class="incremental">
+<ul class="incremental">
+<li><p>These notes concern recent work of the speaker<br />
+<span class="citation" data-cites="mcninchNilpotentElementsReductive2021">McNinch (2021)</span> and <span class="citation" data-cites="mcninchReductiveSubgroupSchemes2020">McNinch (2020)</span> on <em>reductive groups over a local field</em>.</p></li>
+<li><p>Ultimately this work originated from attempts to give a different perspective on construction(s) of <span class="citation" data-cites="debackerParametrizingNilpotentOrbits2002">(DeBacker 2002)</span>.</p></li>
+<li><p>These notes will be posted at <a href="https://gmcninch-tufts.github.io/math/" class="url">https://gmcninch-tufts.github.io/math/</a> (just google for “McNinch Tufts math” if you’d like to find them…)</p></li>
+<li><p>I’d like to thank the organizers of this <a href="https://www.ams.org/meetings/sectional/2289_program_ss16.html#title">Special Session on Cohomology, Representation Theory, and Lie Theory</a> for the invitation to speak. Bummer we couldn’t be in Mobile.</p>
+<ul class="incremental">
+<li><p>I’m going to talk about Lie theory. The questions considered are relevant for (some types of) representation theory. And cohomology is at least playing a back-story….</p>
+<p>Nevertheless, I realize that my talk is not exactly at the barycenter of the topics one might have expected in this session, so thanks for your patience!</p></li>
+</ul></li>
+</ul>
+</div>
+<h1 id="reductive-groups-and-certain-subgroups">Reductive groups and certain subgroups</h1>
+<div class="incremental">
+<ul class="incremental">
+<li><p>Let <span class="math inline">\(F\)</span> be a field of characteristic <span class="math inline">\(p \ge 0\)</span>, let <span class="math inline">\(G\)</span> be a reductive group over <span class="math inline">\(F\)</span>, and let <span class="math inline">\(\mu_n\)</span> be the group scheme of <span class="math inline">\(n\)</span>-th roots of unity, for <span class="math inline">\(n \ge 2\)</span>.</p></li>
+<li><p><strong>Proposition:</strong> If <span class="math inline">\(\phi:\mu_n \to G\)</span> is a homomorphism, then the image of <span class="math inline">\(\phi\)</span> is contained in a maximal torus of <span class="math inline">\(G\)</span>.</p></li>
+<li><p>when <span class="math inline">\(p \mid n\)</span>, note that <span class="math inline">\(\mu_n\)</span> is not a smooth group scheme. When <span class="math inline">\(n=p\)</span>, the image of <span class="math inline">\(\phi\)</span> amounts to <span class="math inline">\(X \in \operatorname{Lie}(G)\)</span> with <span class="math inline">\(X^{[p]} = X\)</span>.</p></li>
+<li><p>There is a natural notion of equivalence for such homomorphisms; we call the equivalence classes “<span class="math inline">\(\mu\)</span>-homomorphisms” and denote them as <span class="math inline">\(\phi:\mu \to G\)</span>.</p></li>
+</ul>
+</div>
+<h1 id="mu-homomorphisms-to-a-split-torus"><span class="math inline">\(\mu\)</span>-homomorphisms to a split torus</h1>
+<p><strong>Proposition</strong>: If <span class="math inline">\(T\)</span> is a split torus over <span class="math inline">\(F\)</span> with co-character group <span class="math inline">\(Y = X_*(T)\)</span>, there is a bijection <span class="math inline">\(\overline{x} \mapsto \phi_{\overline{x}}\)</span> <span class="math display">\[Y \otimes \mathbf{Q}/\mathbf{Z}= V/Y \xrightarrow{\sim}
+\{\mu\text{-homomorphisms}\ \mu \to T\}\]</span> where <span class="math inline">\(x \in V = Y \otimes \mathbf{Q}\)</span>.</p>
+<h1 id="sub-systems-and-sub-groups">sub-systems and sub-groups</h1>
+<div class="incremental">
+<ul class="incremental">
+<li><p>let <span class="math inline">\(\phi:\mu \to G\)</span> be a <span class="math inline">\(\mu\)</span>-homomorphism with image in a split torus <span class="math inline">\(T\)</span>, corresponding to the class of <span class="math inline">\(x \in Y \otimes \mathbf{Q}= V\)</span> in <span class="math inline">\(V/Y\)</span>.</p></li>
+<li><p>the centralizer <span class="math inline">\(C_G^0(\phi)\)</span> of the image of <span class="math inline">\(\phi\)</span> is a <em>subsystem subgroup</em> of <span class="math inline">\(G\)</span></p></li>
+<li><p>if <span class="math inline">\(G\)</span> is split and <span class="math inline">\(T\)</span> a maximal split torus, and if <span class="math inline">\(\Phi\)</span> denotes the roots of <span class="math inline">\(G\)</span> in <span class="math inline">\(X^*(T)\)</span>, the root system of <span class="math inline">\(C_G^0(\phi)\)</span> is given by <span class="math inline">\(\Phi_x = \{\alpha \in \Phi \mid \langle \alpha,x \rangle \in \mathbf{Z}\}\)</span>.</p></li>
+<li><p><span class="math inline">\(\Phi_x\)</span> is the root subsystem determined by the Borel-de Siebenthal procedure from the extended Dynkin diagram of <span class="math inline">\(G\)</span>.</p></li>
+<li><p>we refer to the reductive subgroups of <span class="math inline">\(G\)</span> that arises as connected centralizers of homomorphisms <span class="math inline">\(\phi:\mu \to G\)</span> as <em>subgroups of type <span class="math inline">\(C(\mu)\)</span></em>.</p></li>
+</ul>
+</div>
+<h1 id="local-fields">Local fields</h1>
+<div class="incremental">
+<ul class="incremental">
+<li><p>Let <span class="math inline">\(\mathrm{K}\)</span> be a <em>local field</em>, by which I mean the field of fractions of a complete DVR <span class="math inline">\(\mathscr{A}\)</span></p></li>
+<li><p>write <span class="math inline">\(\mathrm{k}= \mathscr{A}/\pi\mathscr{A}\)</span> for the <em>residue field</em>.</p></li>
+<li><p>e.g. <span class="math inline">\(\mathscr{A}\)</span> could be the completion of the ring of integers <span class="math inline">\(\mathcal{O}_\mathrm{L}\)</span> of a number field <span class="math inline">\(\mathrm{L}\)</span> at some non-zero prime ideal <span class="math inline">\(\mathfrak{p}\)</span>.</p>
+<p>Then <span class="math inline">\([\mathrm{K}:\mathbf{Q}_p] &lt; \infty\)</span> where <span class="math inline">\(p \mathbf{Z} = \mathbf{Z} \cap \mathfrak{p}\)</span>.</p></li>
+<li><p>or <span class="math inline">\(\mathscr{A}\)</span> could be the completion of the local ring <span class="math inline">\(\mathscr{O}_X\)</span> where <span class="math inline">\(X\)</span> is an (smooth, geometrically irreducible) algebraic curve over <span class="math inline">\(\mathrm{k}\)</span>.</p>
+<p>Then <span class="math inline">\(\mathrm{K}\simeq \ell ( \hspace{-1.6pt} ( {t} ) \hspace{-1.6pt} )\)</span> where <span class="math inline">\([\ell:\mathrm{k}] &lt; \infty\)</span>.</p></li>
+<li><p>we assume throughout that the char. of the residue field <span class="math inline">\(\mathrm{k}\)</span> is <span class="math inline">\(p&gt;0\)</span>.</p></li>
+</ul>
+</div>
+<h1 id="reductive-groups-and-splitting-fields">Reductive groups and splitting fields</h1>
+<div class="incremental">
+<ul class="incremental">
+<li><p>Let <span class="math inline">\(G\)</span> be a connected and reductive group over the local field <span class="math inline">\(\mathrm{K}\)</span>.</p></li>
+<li><p>can always find a finite, separable extension <span class="math inline">\(\mathrm{K}\subset \mathrm{L}\)</span> such that <span class="math inline">\(G_\mathrm{L}\)</span> is <em>split</em>.</p></li>
+<li><p>Recall that for a finite separable extension <span class="math inline">\(\mathrm{k}\subset \ell\)</span> of the residue field, there is a unique extension – called an <em>unramified</em> extension – <span class="math inline">\(\mathrm{K}\subset \mathrm{L}\)</span> for which the “residue field of <span class="math inline">\(\mathrm{L}\)</span>” is <span class="math inline">\(\ell\)</span> and <span class="math inline">\([\mathrm{L}:\mathrm{K}] = [\ell:\mathrm{k}]\)</span>.</p></li>
+<li><p>We suppose that <span class="math inline">\((\diamondsuit):\)</span> <span class="math inline">\(G\)</span> splits over an unramified extension of <span class="math inline">\(\mathrm{K}\)</span> – i.e. that the group <span class="math inline">\(G_\mathrm{L}\)</span> obtained via base-change is split for a suitable unramified extension <span class="math inline">\(\mathrm{K}\subset \mathrm{L}\)</span>.</p></li>
+</ul>
+</div>
+<h1 id="unramified-groups">Unramified groups</h1>
+<div class="incremental">
+<ul class="incremental">
+<li><p>One says that <span class="math inline">\((\clubsuit):\)</span> <span class="math inline">\(G\)</span> is an unramified group over <span class="math inline">\(\mathrm{K}\)</span> if there is a reductive group scheme <span class="math inline">\(\mathscr{G}\)</span> over <span class="math inline">\(\mathscr{A}\)</span> for which <span class="math inline">\(G = \mathscr{G}_\mathrm{K}\)</span>.</p></li>
+<li><p>Of course, if <span class="math inline">\(G\)</span> is split over <span class="math inline">\(\mathrm{K}\)</span>, it is a fundamental fact – essentially, the <em>existence theorem</em> for a reductive group scheme over <span class="math inline">\(\mathscr{A}\)</span> corresponding to a given <em>root datum</em> – that there is a split reductive “Chevalley group scheme” <span class="math inline">\(\mathscr{G}\)</span> over <span class="math inline">\(\mathscr{A}\)</span> with <span class="math inline">\(G = \mathscr{G}_\mathrm{K}\)</span>.</p></li>
+<li><p>Any unramified group splits over an unramified extension – i.e. <span class="math inline">\((\clubsuit) \implies (\diamondsuit)\)</span> – but the converse is not true in general.</p></li>
+</ul>
+<!-- - If $G$ is a *torus* -- i.e. if $G_\Lf \simeq \prod^d \mathbf{G}_m$ for -->
+<!--   some finite extension $\Lf$ -- then $(\clubsuit) \iff -->
+<!--   (\diamondsuit)$. -->
+</div>
+<h1 id="parahoric-group-schemes">Parahoric group schemes</h1>
+<div class="incremental">
+<ul class="incremental">
+<li><p>The parahoric group schemes attached to <span class="math inline">\(G\)</span> are certain affine, smooth group schemes <span class="math inline">\(\mathscr{P}\)</span> over <span class="math inline">\(\mathscr{A}\)</span> having generic fiber <span class="math inline">\(\mathscr{P}_\mathrm{K}= G\)</span>.</p></li>
+<li><p>We just said that <span class="math inline">\(G\)</span> is unramified over <span class="math inline">\(\mathrm{K}\)</span> if there is a reductive group scheme <span class="math inline">\(\mathscr{G}\)</span> over <span class="math inline">\(\mathscr{A}\)</span> with <span class="math inline">\(G = \mathscr{G}_\mathrm{K}\)</span>. Such a group scheme <span class="math inline">\(\mathscr{G}\)</span> is a parahoric group scheme.</p></li>
+<li><p>But in general, parahoric group schemes <span class="math inline">\(\mathscr{P}\)</span> are <em>not</em> reductive over <span class="math inline">\(\mathscr{A}\)</span>, even for split <span class="math inline">\(G\)</span>. In particular, the special fiber <span class="math inline">\(\mathscr{P}_\mathrm{k}\)</span> need not be a reductive group over the residue field <span class="math inline">\(\mathrm{k}\)</span>.</p></li>
+</ul>
+</div>
+<h1 id="levi-factors-of-the-special-fiber-of-a-parahoric">Levi factors of the special fiber of a parahoric</h1>
+<p>Suppose that <span class="math inline">\(G\)</span> splits over an unramified extension of <span class="math inline">\(\mathrm{K}\)</span>, and let <span class="math inline">\(\mathscr{P}\)</span> a parahoric attached to <span class="math inline">\(G\)</span>.</p>
+<div class="incremental">
+<p>Studied Levi decompositions of <span class="math inline">\(\mathscr{P}_{\mathrm{k}}\)</span> in <span class="citation" data-cites="mcninchLeviDecompositionsLinear2010">(McNinch 2010 )</span>, <span class="citation" data-cites="mcninchLeviFactorsSpecial2014">(McNinch 2014)</span>, <span class="citation" data-cites="mcninchReductiveSubgroupSchemes2020">(McNinch 2020)</span>.</p>
+</div>
+<div class="incremental">
+<p><strong>Theorem</strong> <span class="citation" data-cites="mcninchReductiveSubgroupSchemes2020">(McNinch 2020)</span> There is a reductive subgroup scheme <span class="math inline">\(\mathscr{M}\subset \mathscr{P}\)</span> such that:</p>
+<ol type="a">
+<li><p><span class="math inline">\(\mathscr{M}_\mathrm{K}\)</span> is a reductive subgroup of <span class="math inline">\(G\)</span> of type <span class="math inline">\(C(\mu)\)</span>, and</p></li>
+<li><p><span class="math inline">\(\mathscr{M}_\mathrm{k}\)</span> is a Levi factor of the special fiber <span class="math inline">\(\mathscr{P}_\mathrm{k}\)</span>.</p></li>
+</ol>
+</div>
+<div class="incremental">
+<p><strong>Remarks:</strong></p>
+<div class="incremental">
+<ul class="incremental">
+<li><p>note that <span class="math inline">\(R_u\mathscr{P}_\mathrm{k}\)</span> is defined and split over <span class="math inline">\(\mathrm{k}\)</span>, even if <span class="math inline">\(\mathrm{k}\)</span> is imperfect. (Thus <span class="math inline">\(\mathscr{P}_\mathrm{k}\)</span> has a <em>Levi decomposition</em> over <span class="math inline">\(\mathrm{k}\)</span>).</p></li>
+<li><p>parahorics are determined up to <span class="math inline">\(G(\mathrm{K})\)</span>-conjugacy by <span class="math inline">\(x \in V = Y \otimes \mathbf{Q}\)</span>, and <span class="math inline">\(\mathscr{M}_\mathrm{K}\)</span> is the centralizer of <span class="math inline">\(\phi_{\overline{x}}\)</span>. Here <span class="math inline">\(Y = X_*(S)\)</span> for a max’l split torus <span class="math inline">\(S\)</span> in <span class="math inline">\(G\)</span>.</p></li>
+</ul>
+</div>
+</div>
+<h1 id="main-result-on-nilpotent-elements">Main result on nilpotent elements</h1>
+<div class="incremental">
+<ul class="incremental">
+<li><p>Let <span class="math inline">\(G\)</span> be a reductive group over the local field <span class="math inline">\(K\)</span>, and suppose that <span class="math inline">\(G\)</span> splits over an unramified extension.</p></li>
+<li><p>Write <span class="math inline">\(p\)</span> for the char. of the <em>residue field</em> <span class="math inline">\(\mathrm{k}\)</span> of <span class="math inline">\(K\)</span>, and s’pose <span class="math inline">\(p&gt;2h-2\)</span> where <span class="math inline">\(h = h(G)\)</span> is the Coxeter number of <span class="math inline">\(G\)</span> (i.e. the <span class="math inline">\(\operatorname{sup}\)</span> of the Coxeter numbers of simple components of <span class="math inline">\(G_{\overline{\mathrm{K}}}.\)</span>)</p></li>
+<li><p>Let <span class="math inline">\(X \in \operatorname{Lie}(G)\)</span> be a nilpotent element.</p></li>
+</ul>
+</div>
+<div class="incremental">
+<p><strong>Theorem:</strong> <span class="citation" data-cites="mcninchNilpotentElementsReductive2021">(McNinch 2021)</span> There is a <span class="math inline">\(K\)</span>-subgroup <span class="math inline">\(M \subset G\)</span> such that:</p>
+<div class="incremental">
+<ol class="incremental" type="a">
+<li><span class="math inline">\(M\)</span> is a reductive subgp of type <span class="math inline">\(C(\mu)\)</span> containing a maximal <span class="math inline">\(K\)</span>-torus of <span class="math inline">\(G\)</span> which is unramified.</li>
+<li><span class="math inline">\(M\)</span> is an unramified reductive group over <span class="math inline">\(K\)</span></li>
+<li><span class="math inline">\(X \in \operatorname{Lie}(M) \subset \operatorname{Lie}(G)\)</span> and <span class="math inline">\(X\)</span> is <em>geometrically distinguished</em> for <span class="math inline">\(M\)</span>.</li>
+</ol>
+</div>
+</div>
+<h1 id="primary-tool">Primary tool</h1>
+<div class="incremental">
+<ul class="incremental">
+<li><p>let <span class="math inline">\(G\)</span> be reductive over <span class="math inline">\(\mathrm{K}\)</span>, suppose that <span class="math inline">\(G\)</span> splits over unramif. ext, and let <span class="math inline">\(\mathscr{P}\)</span> be a parahoric for <span class="math inline">\(G\)</span>.</p></li>
+<li><p>Choose reductive subgroup scheme <span class="math inline">\(\mathscr{M}\subset \mathscr{P}\)</span> as in earlier Theorem – thus <span class="math inline">\(\mathscr{M}_\mathrm{k}\)</span> is a Levi factor of <span class="math inline">\(\mathscr{P}_\mathrm{k}\)</span>.</p></li>
+<li><p>Suppose that <span class="math inline">\(p = \operatorname{char}(\mathrm{k})&gt;2h-2\)</span> as before.</p></li>
+</ul>
+</div>
+<div class="incremental">
+<p><strong>Theorem:</strong> <span class="citation" data-cites="mcninchNilpotentElementsReductive2021">(McNinch 2021)</span> Let <span class="math inline">\(X_0 \in \operatorname{Lie}(\mathscr{P}_\mathrm{k}/R_u\mathscr{P}_\mathrm{k}) = \operatorname{Lie}(\mathscr{M}_\mathrm{k})\)</span> be nilpotent.</p>
+<ol type="a">
+<li><p>there is a nilpotent section <span class="math inline">\(\mathscr{X}\in \operatorname{Lie}(\mathscr{M})\)</span> lifting <span class="math inline">\(X_0\)</span> which is <em>balanced</em> for <span class="math inline">\(\mathscr{M}\)</span> – i.e. <span class="math inline">\(C_{\mathscr{M}_\mathrm{k}}(\mathscr{X}_\mathrm{k}=X_0)\)</span> and <span class="math inline">\(C_{\mathscr{M}_\mathrm{K}}(\mathscr{X}_\mathrm{K})\)</span> are smooth of the same dimension.</p></li>
+<li><p>Moreover, <span class="math inline">\(\mathscr{X}\)</span> is balanced for <span class="math inline">\(\mathscr{P}\)</span> – i.e. the centralizers <span class="math inline">\(C_{\mathscr{P}_\mathrm{k}}(\mathscr{X}_\mathrm{k})\)</span> and <span class="math inline">\(C_{\mathscr{P}_\mathrm{K}}(\mathscr{X}_\mathrm{K})\)</span> are smooth of the same dimension.</p></li>
+</ol>
+</div>
+<div class="incremental">
+<ul>
+<li>I view this as an alternative version of the <em>lifting Theorem</em> of <span class="citation" data-cites="debackerParametrizingNilpotentOrbits2002">(DeBacker 2002)</span>.</li>
+</ul>
+<hr />
+<div class="incremental">
+<p><strong>Remarks:</strong></p>
+<ul class="incremental">
+<li><p>The <em>Main Theorem</em> above is deduced from the <em>Primary Tool</em> in part via the observation that any nilpotent <span class="math inline">\(X\)</span> may be placed in <span class="math inline">\(\operatorname{Lie}(\mathscr{M}) \subset \operatorname{Lie}(\mathscr{P})\)</span> for some parahoric <span class="math inline">\(\mathscr{P}\)</span>.</p></li>
+<li><p>in order to control e.g. the dimensions of the centralizers of <span class="math inline">\(\mathscr{X}_\mathrm{k}\)</span> and <span class="math inline">\(\mathscr{X}_\mathrm{K}\)</span>, we actually place <span class="math inline">\(\mathscr{X}\)</span> in the image of an <span class="math inline">\(\mathscr{A}\)</span>-homomorphism <span class="math inline">\(\operatorname{SL}_{2/\mathscr{A}} \to \mathscr{M}\)</span> and use the representation theory of <span class="math inline">\(\operatorname{SL}_2\)</span> (which is well-behaved since <span class="math inline">\(p&gt;2h-2\)</span>).</p>
+<p>The techniques used for this construction build on earlier work of <span class="citation" data-cites="mcninchOptimalSLHomomorphisms2005">McNinch (2005)</span> on <em>optimal <span class="math inline">\(\operatorname{SL}_2\)</span>-homomorphisms</em>.</p></li>
+</ul>
+</div>
+</div>
+<h1 class="unnumbered" id="bibliography">Bibliography</h1>
+<div class="refs">
+
+</div>
+<div id="refs" class="references hanging-indent" role="doc-bibliography">
+<div id="ref-debackerParametrizingNilpotentOrbits2002">
+<p>DeBacker, Stephen. 2002. “Parametrizing Nilpotent Orbits via Bruhat-Tits Theory.” <em>Annals of Mathematics. Second Series</em> 156 (1): 295–332. <a href="https://doi.org/10.2307/3597191">https://doi.org/10.2307/3597191</a>.</p>
+</div>
+<div id="ref-mcninchOptimalSLHomomorphisms2005">
+<p>McNinch, George. 2005. “Optimal SL(2) Homomorphisms.” <em>Commentarii Mathematici Helvetici. A Journal of the Swiss Mathematical Society</em> 80 (2): 391–426. <a href="https://doi.org/10.4171/CMH/19">https://doi.org/10.4171/CMH/19</a>.</p>
+</div>
+<div id="ref-mcninchLeviDecompositionsLinear2010">
+<p>———. 2010. “Levi Decompositions of a Linear Algebraic Group.” <em>Transformation Groups</em> 15 (4): 937–64. <a href="https://doi.org/10.1007/s00031-010-9111-8">https://doi.org/10.1007/s00031-010-9111-8</a>.</p>
+</div>
+<div id="ref-mcninchLeviFactorsSpecial2014">
+<p>———. 2014. “Levi Factors of the Special Fiber of a Parahoric Group Scheme and Tame Ramification.” <em>Algebras and Representation Theory</em> 17 (2): 469–79. <a href="https://doi.org/10.1007/s10468-013-9404-4">https://doi.org/10.1007/s10468-013-9404-4</a>.</p>
+</div>
+<div id="ref-mcninchReductiveSubgroupSchemes2020">
+<p>———. 2020. “Reductive Subgroup Schemes of a Parahoric Group Scheme.” <em>Transformation Groups</em> 25 (1): 217–49. <a href="https://doi.org/10.1007/s00031-018-9508-3">https://doi.org/10.1007/s00031-018-9508-3</a>.</p>
+</div>
+<div id="ref-mcninchNilpotentElementsReductive2021">
+<p>———. 2021. “Nilpotent Elements and Reductive Subgroups over a Local Field.” <em>Algebras and Representation Theory</em> 24: 1479–1522. <a href="https://doi.org/10.1007/s10468-020-10000-2">https://doi.org/10.1007/s10468-020-10000-2</a>.</p>
+</div>
+</div>
+</body>
+</html>
