@@ -16,5 +16,5 @@ at the [AMS sectional
 meeting](https://www.ams.org/meetings/sectional/2289_program.html) of
 November 20, 2021.
 
-- [notes](../assets/slides/2021-11-20--Mobile-virtual--SpecialSession--Reductive-subgroups-of-a-reductive-group-over-a-local-field.html)
-- [notes-pdf](../assets/slides/2021-11-20--Mobile-virtual--SpecialSession--Reductive-subgroups-of-a-reductive-group-over-a-local-field.pdf)
+- [notes](../assets/slides/2021-11-20--MobileVirtual--Reductive-subgroups-of-a-reductive-group-over-a-local-field.html)
+- [notes-pdf](../assets/slides/2021-11-20--MobileVirtual--Reductive-subgroups-of-a-reductive-group-over-a-local-field.pdf)

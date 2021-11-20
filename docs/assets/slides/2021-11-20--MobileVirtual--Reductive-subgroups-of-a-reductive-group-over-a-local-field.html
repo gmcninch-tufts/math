@@ -15,9 +15,63 @@
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
   </style>
-  <link rel="stylesheet" href="/home/george/Classes/math51-fall2021/assets/default.css" />
+  <link rel="stylesheet" href="../css/default.css" />
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-  
+  <style>
+  html {
+      font-family: sans-serif;
+      font-size: 15px;
+  }
+
+  body { /* margin-left: 50px; */
+         width: 90%;
+         margin: 5%;
+         color: navy;
+       }
+
+  .title, .author, .date { text-align: center; }
+
+  table th + th { border-left:2px solid navy;}
+  th { border-bottom: 2px solid navy;
+       border-collapse: collapse; }
+
+  table td + td { border-left:1px solid navy;}
+
+  td { border-bottom:1px solid navy;
+       border-collapse: collapse; }
+
+  .title-slide h1 { text-align: center;
+  		  font-family: Palatino;
+  		  border-bottom: 1px solid navy;}
+
+  .image-container {
+      text-align: center;
+  }
+
+  a:link {color: darkred }
+  a:visited {color: darkred;}
+  a:hover {color: #06e;}
+  a:active {color: #faa700;}
+  a:focus {outline: thin dotted;}
+
+  .solution {
+      padding: 5px 5px 5px 5px;
+      color: darkred;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      border: 1px solid navy;}
+
+  .comment {
+      padding: 5px 5px 5px 5px;
+      color: darkred;
+      margin-top: 10px;
+      margin-bottom: 10px;}
+
+  .identity {
+      padding: 1cm 1cm 1cm 1cm;
+      border: 1px solid black;
+  	  }
+  </style>
 </head>
 <body>
 <header id="title-block-header">
@@ -29,11 +83,10 @@
 <h1 id="overview">Overview</h1>
 <div class="incremental">
 <ul class="incremental">
-<li><p>These notes concern recent work of the speaker<br />
-<span class="citation" data-cites="mcninchNilpotentElementsReductive2021">McNinch (2021)</span> and <span class="citation" data-cites="mcninchReductiveSubgroupSchemes2020">McNinch (2020)</span> on <em>reductive groups over a local field</em>.</p></li>
+<li><p>This talk concerns recent work of the speaker <span class="citation" data-cites="mcninchNilpotentElementsReductive2021">McNinch (2021)</span> and <span class="citation" data-cites="mcninchReductiveSubgroupSchemes2020">McNinch (2020)</span> on <em>reductive groups over a local field</em>.</p></li>
 <li><p>Ultimately this work originated from attempts to give a different perspective on construction(s) of <span class="citation" data-cites="debackerParametrizingNilpotentOrbits2002">(DeBacker 2002)</span>.</p></li>
 <li><p>These notes will be posted at <a href="https://gmcninch-tufts.github.io/math/" class="url">https://gmcninch-tufts.github.io/math/</a> (just google for “McNinch Tufts math” if you’d like to find them…)</p></li>
-<li><p>I’d like to thank the organizers of this <a href="https://www.ams.org/meetings/sectional/2289_program_ss16.html#title">Special Session on Cohomology, Representation Theory, and Lie Theory</a> for the invitation to speak. Bummer we couldn’t be in Mobile.</p>
+<li><p>I’d like to thank the organizers of this <a href="https://www.ams.org/meetings/sectional/2289_program_ss16.html#title">Special Session on Cohomology, Representation Theory, and Lie Theory</a> for the invitation to speak. Bummer we couldn’t be together in Mobile.</p>
 <ul class="incremental">
 <li><p>I’m going to talk about Lie theory. The questions considered are relevant for (some types of) representation theory. And cohomology is at least playing a back-story….</p>
 <p>Nevertheless, I realize that my talk is not exactly at the barycenter of the topics one might have expected in this session, so thanks for your patience!</p></li>
