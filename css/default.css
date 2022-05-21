@@ -1,18 +1,19 @@
 html {
     #  font-size: 62.5%;
     font-size: 12px;
-    font-family: Arimo, Roboto, sans;
+    font-family: Roboto, Arimo,  sans;
 }
 
 body {
   font-size: 1.6rem;
   /* color: #000; */
-  color: navy
+  color: navy;
 }
 
 header {
   border-bottom: 0.2rem solid #000;
 }
+
 
 nav {
   text-align: right;
@@ -30,10 +31,16 @@ footer {
    
   margin-top: 3rem;
   padding: 1.2rem 0;
-  border-top: 0.2rem solid #000;
+  border-top: 0.5rem solid #000;
   font-size: 1.2rem;
   color: #555;
 }
+
+.quote {
+    border-left: 0.7rem solid blue;
+}
+
+
 
 h1 {
   font-size: 2.4rem;
