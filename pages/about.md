@@ -78,7 +78,7 @@ Biographic Sketch
 
 [Workshop on Pseudo-Reductive Groups]: https://sites.google.com/view/prgs-newcastle/home
 
-[Curriculum Vita]: /assets/curriculum-vita.pdf
+[Curriculum Vita]: /assets/curriculum-vita-short.pdf
 
 [MathSciNet profile page]:
    http://www.ams.org/mathscinet/search/author.html?mrauthid=625671
