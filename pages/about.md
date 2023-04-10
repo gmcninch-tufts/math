@@ -15,8 +15,17 @@ author: George McNinch
 
 Info
 =======
- 
+
 + email: george.mcninch@tufts.edu
++ address:
+  ```
+  Department of Mathematics  
+  Tufts University
+  Joyce Cummings Center 
+  177 College Avenue
+  Medford, MA 02155
+  USA
+  ```
 + McNinch's [Curriculum Vita]
 + [MathSciNet profile page] (subscription paywall)
 + [Google Scholar profile]
