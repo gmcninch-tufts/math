@@ -23,4 +23,4 @@ Wuppertal), and Olivier Dudas (Université Paris Diderot) on - among
 other things - block theory, and aspects of the Deligne-Lusztig
 description of representations of finite reductive groups.
 
-[Centre Intrafacultaire Bernoulli]: http://cib.epfl.ch/
+[Centre Intrafacultaire Bernoulli]: https://bernoulli.epfl.ch/
