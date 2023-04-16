@@ -1,5 +1,5 @@
 ---
-title   : AGeNTs seminar - Julia Hartmann (UPenn)
+title   : AGeNTs seminar - Elijah Bodish (MIT)
 date    : 2023-04-13
 tags    :
   - AGeNTs
