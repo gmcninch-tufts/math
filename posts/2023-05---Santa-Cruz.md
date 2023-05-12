@@ -1,5 +1,5 @@
 ---
-title   : talk at UC Santa Cruz "Reductive subgroup schemes of a parahoric group schemea"
+title   : talk at UC Santa Cruz "Reductive subgroup schemes of a parahoric group scheme"
 date    : 2023-05-05
 tags    :
   - reductive-groups
@@ -8,7 +8,9 @@ summary : |
   I gave a seminar talk at the University of California Santa Cruz
 ---
 
-[Here is the poster](../assets/images/2023_05_05_UCSantaCruz--ANT_McNinch.pdf)
+I gave a talk in the [Algebra and Number Theory Seminar, University of
+California Santa Cruz](https://www.math.ucsc.edu/seminars/index.html).
+[Here is the poster](../assets/images/2023_05_05_UCSantaCruz--ANT_McNinch.pdf).
 
 Title: Reductive subgroup schemes of a parahoric group scheme
 
