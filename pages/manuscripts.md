@@ -1,6 +1,6 @@
 ---
 author: George McNinch
-date: 2023-04-20 10:17:39.306657287 EDT
+date: 2023-05-07 18:51:04.256585669 EDT
 title: Manuscripts
 ---
 
@@ -795,7 +795,6 @@ title: Manuscripts
    
    
    URLs: [[PDF]](/assets/manuscripts/semisimplicity-in-positive-characteristic-survey.pdf) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1670763).
-   
-   
+      
    
    --------
