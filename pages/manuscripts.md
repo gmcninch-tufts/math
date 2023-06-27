@@ -1,6 +1,6 @@
 ---
 author: George McNinch
-date: 2023-05-12 08:20:09.199652028 EDT
+date: 2023-06-27 11:07:24.564790085 EDT
 title: Manuscripts
 ---
 
@@ -783,6 +783,27 @@ title: Manuscripts
    
    
    URLs: [[PDF]](/assets/manuscripts/dimensional-criteria-for-semisimplicity-of-representations.pdf), [[DOI]](http://dx.doi.org/10.1112/S0024611598000045) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1476899).
+   
+   **Abstract:**
+   This paper is concerned with rational representations of reductive
+   algebraic groups over fields of positive characteristic $p$.  Let $G$
+   be a simple algebraic group of rank $\ell$.  It is shown that a
+   rational representation of $G$ is semisimple provided that its
+   dimension does not exceed $\ell p$.  Furthermore, this result is
+   improved by introducing a certain quantity $\mathcal{C}$ which is a
+   quadratic function of $\ell$.  Roughly speaking, it is shown that any
+   rational $G$ module of dimension less than $\mathcal{C} p$ is either
+   semisimple or involves a subquotient from a finite list of exceptional
+   modules.
+   
+   Suppose that $L_1$ and $L_2$ are irreducible representations of $G$.
+   The essential problem is to study the possible extensions between
+   $L_1$ and $L_2$ provided $\dim L_1 + \dim L_2$ is smaller than
+   $\mathcal{C} p$.  In this paper, all relevant simple modules $L_i$ are
+   characterized, the restricted Lie algebra cohomology with coefficients
+   in $L_i$ is determined, and the decomposition of the corresponding
+   Weyl modules is analyzed. These data are then exploited to obtain the
+   needed control of the extension theory.
    
    
    

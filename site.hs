@@ -2,8 +2,32 @@
 {-# LANGUAGE OverloadedStrings #-}
 import           Data.Monoid (mappend)
 import           Hakyll
-
+import           Text.Pandoc
 --------------------------------------------------------------------------------
+
+
+mathjaxExtensions :: Extensions
+mathjaxExtensions = extensionsFromList 
+                    [Ext_tex_math_dollars --  $...$ or $$...$$
+                    ,Ext_tex_math_double_backslash --  \(...\) or \[...\]
+                    ,Ext_latex_macros
+                    ,Ext_inline_code_attributes 
+                    ]
+readMathjaxOptions :: ReaderOptions 
+readMathjaxOptions = defaultHakyllReaderOptions
+                {
+                    readerExtensions = (readerExtensions defaultHakyllReaderOptions) <> mathjaxExtensions
+                }
+writeMathjaxOptions :: WriterOptions
+writeMathjaxOptions = defaultHakyllWriterOptions 
+                {
+                    writerHTMLMathMethod = MathJax ""
+                }
+mathJaxAddedCompiler :: Compiler (Item String)
+mathJaxAddedCompiler = pandocCompilerWith readMathjaxOptions writeMathjaxOptions
+
+
+
 main :: IO ()
 main = hakyllWith config $ do
     match "assets/**" $ do
@@ -16,7 +40,7 @@ main = hakyllWith config $ do
 
     match "pages/*md" $ do
         route $ setExtension "html"
-        compile $ pandocCompiler
+        compile $ mathJaxAddedCompiler
             >>= loadAndApplyTemplate "templates/page.html"    postCtx
             >>= loadAndApplyTemplate "templates/default.html" postCtx
             >>= relativizeUrls
@@ -42,7 +66,7 @@ main = hakyllWith config $ do
 
     match "posts/*" $ do
         route $ setExtension "html"
-        compile $ pandocCompiler
+        compile $ mathJaxAddedCompiler
             >>= loadAndApplyTemplate "templates/post.html"    (postCtxWithTags tags)
             >>= loadAndApplyTemplate "templates/default.html" (postCtxWithTags tags)
             >>= relativizeUrls
