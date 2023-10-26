@@ -24,9 +24,11 @@ I'm teaching two courses in Spring 2024, and I thought I'd post the course descr
   
 - Topics: *Applied Algebra*
 
-  The other course i [Math 190 *Topics in Algebra*](/assets/images/2024-spring--Math190--topics-in-algebra.pdf).
+  The other course I'm teaching is [Math 190 *Topics in
+  Algebra*](/assets/images/2024-spring--Math190--topics-in-algebra.pdf).
 
-  As a quick summary, I plan to cover three different components (each about 4 weeks):
+  As a quick summary, I plan to cover three different components; each
+  component should last about 4 weeks (8 lectures):
   
   - linear representations of finite groups
   - error correcting codes
