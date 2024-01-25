@@ -1,6 +1,6 @@
 ---
 author: George McNinch
-date: 2023-06-27 11:07:24.564790085 EDT
+date: 2024-01-25 15:16:50.059353382 EST
 title: Manuscripts
 ---
 
@@ -406,7 +406,7 @@ title: Manuscripts
    **Citation:** Nagoya Mathematical Journal 190 (2008), pp. 129--181.
    
    
-   [Errata](/assets/manuscripts/errata/errataerratum:-the-centralizer-of-a-nilpotent-section.pdf)
+   [Errata](/assets/manuscripts/errata/errata--the-centralizer-of-a-nilpotent-section.pdf)
    
    
    URLs: [[PDF]](/assets/manuscripts/the-centralizer-of-a-nilpotent-section.pdf), [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR2423832), [[arXiv]](http://arxiv.org/abs/math.RT/0605626) and [[Euclid]](http://projecteuclid.org/euclid.nymj/euclid.nmj/1214229081).
@@ -707,7 +707,7 @@ title: Manuscripts
    **Citation:** Journal of Pure and Applied Algebra 167 (2002), no. 2-3, pp. 269--300.
    
    
-   [Errata](/assets/manuscripts/errata/errataabelian-unipotent-subgroups-of-reductive-groups---erratum.pdf)
+   [Errata](/assets/manuscripts/errata/abelian-unipotent-subgroups-of-reductive-groups---erratum.pdf)
    
    
    URLs: [[PDF]](/assets/manuscripts/abelian-unipotent-subgroups-of-reductive-groups.pdf), [[DOI]](http://dx.doi.org/10.1016/S0022-4049(01)00038-X), [[arXiv]](http://arxiv.org/abs/math.RT/0007056) and [[MR]](http://www.ams.org/mathscinet-getitem?mr=MR1874545).
