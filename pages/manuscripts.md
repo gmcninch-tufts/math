@@ -1,6 +1,10 @@
 ---
 author: George McNinch
+<<<<<<< HEAD
 date: 2024-01-25 15:16:50.059353382 EST
+=======
+date: 2024-01-12 11:40:02.431673351 EST
+>>>>>>> 45087e6be00eeb7eb86b61bce9538bc7f7d3fbe5
 title: Manuscripts
 ---
 

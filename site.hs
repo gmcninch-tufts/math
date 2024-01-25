@@ -45,8 +45,6 @@ main = hakyllWith config $ do
             >>= loadAndApplyTemplate "templates/default.html" postCtx
             >>= relativizeUrls
 
-
-
     tags <- buildTags "posts/*" (fromCapture "tags/*.html")
 
     tagsRules tags $ \tag pattern -> do
@@ -77,7 +75,7 @@ main = hakyllWith config $ do
             posts <- recentFirst =<< loadAll "posts/*"
             let archiveCtx =
                     listField "posts" (postCtxWithTags tags) (return posts) `mappend`
-                    constField "title" "Archives"            `mappend`
+                    constField "title" "Prof Archives"            `mappend`
                     defaultContext
 
             makeItem ""
@@ -86,10 +84,13 @@ main = hakyllWith config $ do
                 >>= relativizeUrls
 
 
+
     match "index.html" $ do
         route idRoute
         compile $ do
             posts <- fmap (take 10) $ recentFirst =<< loadAll "posts/*"
+
+            
             let indexCtx =
                     listField "posts" (postCtxWithTags tags) (return posts) `mappend`
                     defaultContext
